@@ -25,19 +25,19 @@ public class BinaryTreeMaxNode {
         if(right == null){
             return left;
         }
-//        if(left.val > right.val){
-//            return left;
-//        }
+        if(left.val > right.val){
+            return left;
+        }
         return right;
     }
 }
 
 class TreeNode {
-    public int value;
+    public int val;
     public TreeNode left, right;
-    public TreeNode(TreeNode left, TreeNode right, int value) {
+    public TreeNode(TreeNode left, TreeNode right, int val) {
         this.left = left;
         this.right = right;
-        this.value = value;
+        this.val = val;
     }
 }

@@ -31,7 +31,6 @@ public class KthLargestElement {
                 nums[j + 1] = temp;
             }
         }
-//        return nums;
         return nums[nums.length - k];
     }
 }

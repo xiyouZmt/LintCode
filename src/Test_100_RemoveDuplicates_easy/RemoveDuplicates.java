@@ -21,12 +21,11 @@ public class RemoveDuplicates {
         for (int i = 1; i < nums.length; i++) {
             if(nums[i] == nums[pre]){
                 length ++;
-                continue;
             } else {
                 if(pre + 1 != i){
                     nums[pre + 1] = nums[i];
                 }
-                pre ++;
+                pre++;
             }
         }
         for (int i = pre + 1; i < nums.length; i++) {

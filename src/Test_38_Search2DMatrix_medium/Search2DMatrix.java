@@ -1,4 +1,4 @@
-package Test_38_Search2DMatrix_easy;
+package Test_38_Search2DMatrix_medium;
 
 /**
  * Created by zmt on 2017/6/24.
