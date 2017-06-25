@@ -17,7 +17,7 @@ public class SerializeAndDeserialize {
             List<TreeNode> rootList = new ArrayList<>();
             rootList.add(root);
             StringBuilder builder = new StringBuilder();
-            builder.append("{").append(root.value).append(",");
+            builder.append("{").append(root.val).append(",");
             List<TreeNode> childList = new ArrayList<>();
             List<TreeNode> tempList;
             while (true){
@@ -29,14 +29,14 @@ public class SerializeAndDeserialize {
                         builder.append("#,");
                     } else {
                         childList.add(treeNode.left);
-                        builder.append(treeNode.left.value).append(",");
+                        builder.append(treeNode.left.val).append(",");
                     }
                     if(treeNode.right == null){
                         nullCount++;
                         builder.append("#,");
                     } else {
                         childList.add(treeNode.right);
-                        builder.append(treeNode.right.value).append(",");
+                        builder.append(treeNode.right.val).append(",");
                     }
                     if (i == rootList.size() - 1 && nullCount != size * 2){
                         tempList = rootList;
@@ -92,10 +92,10 @@ public class SerializeAndDeserialize {
 }
 
 class TreeNode {
-    public int value;
+    public int val;
     public TreeNode left, right;
     public TreeNode(int val) {
-        this.value = val;
+        this.val = val;
         this.left = this.right = null;
     }
 

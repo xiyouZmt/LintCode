@@ -1,9 +1,9 @@
-package Test_013_FindString_easy;
+package Test_013_SearchStr_easy;
 
 /**
  * Created by zmt on 2017/6/23.
  */
-public class FindString {
+public class SearchStr {
     public static void main(String [] args){
         System.out.println(findString("abcdefg", "cdefg"));
     }

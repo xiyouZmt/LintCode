@@ -1,7 +1,7 @@
 ## LintCode
 ### 13. <a href="http://lintcode.com/problem/strstr"> strStr (Easy) </a>
 
-	package Test_013_FindString_easy;
+	package Test_013_SearchStr_easy;
 
 	/**
 	 * Created by zmt on 2017/6/23.
