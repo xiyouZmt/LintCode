@@ -29,6 +29,8 @@
 
 * [38. Search2DMatrix (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_038_Search2DMatrix_medium/Search2DMatrix.md)
 
+* [39. Recover Rotated Sorted Array (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_039_RecoverRotatedSortedArray_easy/RecoverRotatedSortedArray.md)
+
 * [100. Remeve Duplicates from Sorted (Easy) Arrays](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/Remove%20Duplicates%20from%20Sorted%20Arrays.md)
 
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/String%20Permutation.md)
