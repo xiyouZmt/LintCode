@@ -31,7 +31,7 @@
 
 * [39. Recover Rotated Sorted Array (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_039_RecoverRotatedSortedArray_easy/RecoverRotatedSortedArray.md)
 
-* [100. Remeve Duplicates from Sorted (Easy) Arrays](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicatesfromSortedArrays.md)
+* [100. Remeve Duplicates from Sorted (Easy) Arrays](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
 
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
 

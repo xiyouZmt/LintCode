@@ -1,5 +1,5 @@
 ## LintCode
-### 1. <a href="http://lintcode.com/problem/a-b-problem"> A Plus B (Easy) <a/>
+### 1. <a href="http://lintcode.com/problem/a-b-problem" target="_blank"> A Plus B (Easy) <a/>
     
 	package Test_001_APlusB_easy;
 
