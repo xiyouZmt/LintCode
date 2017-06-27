@@ -29,4 +29,8 @@
 	    }
 	}
 
+<<<<<<< HEAD
 ### <a href="http://blog.csdn.net/zhumintao/article/details/53873025" target="_blank"> 参考博客 另类加法 </a>
+=======
+### <a href="http://blog.csdn.net/zhumintao/article/details/53873025" target="_blank"> 参考博客 另类加法 </a>
+>>>>>>> 279d46d8b2da9eb0b560da3e60f5987e39cc908d

@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_408_AddBinary_easy/AddBinary.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_39_RecoverRotatedSortedArray_easy/RecoverRotatedSortedArray.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_001_APlusB_easy/APlusB.md" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_001_APlusB_easy/APlusB.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_001_APlusB_easy/APlusB.md" afterPath="$PROJECT_DIR$/src/Test_001_APlusB_easy/APlusB.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_039_RecoverRotatedSortedArray_easy/RecoverRotatedSortedArray.java" afterPath="$PROJECT_DIR$/src/Test_039_RecoverRotatedSortedArray_easy/RecoverRotatedSortedArray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
