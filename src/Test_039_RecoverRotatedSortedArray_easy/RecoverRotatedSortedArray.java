@@ -1,6 +1,7 @@
 package Test_039_RecoverRotatedSortedArray_easy;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
  * Created by zmt on 2017/6/25.
@@ -14,6 +15,7 @@ public class RecoverRotatedSortedArray {
         list.add(2);
         list.add(3);
         recover(list);
+        System.out.println(Arrays.toString(list.toArray()));
     }
     public static void recover(ArrayList<Integer> list){
         if(list != null && list.size() != 0){
