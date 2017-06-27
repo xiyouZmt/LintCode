@@ -1,4 +1,4 @@
-package Test_041_MaximumSubArray;
+package Test_041_MaximumSubArray_easy;
 
 /**
  * Created by zmt on 2017/6/25.
