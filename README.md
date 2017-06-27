@@ -31,7 +31,9 @@
 
 * [39. Recover Rotated Sorted Array (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_039_RecoverRotatedSortedArray_easy/RecoverRotatedSortedArray.md)
 
-* [41. MAximumSubArray (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_041_MaximumSubArray_easy/MaximumSunArray.md)
+* [41. MaximumSubArray (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_041_MaximumSubArray_easy/MaximumSubArray.md)
+
+* [44. MinimumSubArray (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_044_MinimumSubArray_easy/MinimumSubArray.md)
 
 * [100. Remeve Duplicates from Sorted (Easy) Arrays](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
 
