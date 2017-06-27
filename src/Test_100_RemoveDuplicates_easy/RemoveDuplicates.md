@@ -1,5 +1,5 @@
 ## LintCode
-### 100. <a href="http://lintcode.com/en/problem/remove-duplicates-from-sorted-array/"> Remeve Duplicates from Sorted (Easy) Arrays </a>
+### 100. <a href="http://lintcode.com/en/problem/remove-duplicates-from-sorted-array/"> Remeve Duplicates from Sorted Arrays (Easy) </a>
 
 	package Test_100_RemoveDuplicates_easy;
 
