@@ -35,7 +35,9 @@
 
 * [44. MinimumSubArray (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_044_MinimumSubArray_easy/MinimumSubArray.md)
 
-* [100. Remeve Duplicates from Sorted (Easy) Arrays](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
+* [45. MaximumSubarrayDifference (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.md)
+
+* [100. Remeve Duplicates from Sorted Arrays (Easy) ](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
 
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
 
