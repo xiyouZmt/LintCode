@@ -1,14 +1,12 @@
-package BinaryTreePathSum;
+package Test_093_BalancedBinaryTree_easy;
 
 /**
  * Created by zmt on 2017/6/11.
  */
-public class BinaryTreePathSum {
-
-    private int leftDepth = 0 , rightDepth = 0;
+public class BalancedBinaryTree {
 
     public static void main(String [] args){
-        String text = "";
+
     }
 
     /**
@@ -32,7 +30,7 @@ public class BinaryTreePathSum {
      */
     public boolean isBalanced(TreeNode treeNode){
         if(treeNode == null){
-            return false;
+            return true;
         }
         int left = treeDepth(treeNode.getLeft());
         int right = treeDepth(treeNode.getRight());
@@ -62,27 +60,27 @@ class TreeNode{
         this.val = val;
     }
 
-    public int getVal() {
-        return val;
-    }
-
-    public void setVal(int val) {
-        this.val = val;
-    }
-
     public TreeNode getLeft() {
         return left;
-    }
-
-    public void setLeft(TreeNode left) {
-        this.left = left;
     }
 
     public TreeNode getRight() {
         return right;
     }
 
+    public void setLeft(TreeNode left) {
+        this.left = left;
+    }
+
     public void setRight(TreeNode right) {
         this.right = right;
+    }
+
+    public int getVal() {
+        return val;
+    }
+
+    public void setVal(int val) {
+        this.val = val;
     }
 }
