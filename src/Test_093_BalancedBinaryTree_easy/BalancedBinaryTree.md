@@ -1,5 +1,6 @@
 ## LintCode
 ### 93. <a href="http://www.lintcode.com/en/problem/balanced-binary-tree/"> Balanced Binary Tree (Easy) </a>
+```java
 
 	package Test_093_BalancedBinaryTree_easy;
 
@@ -87,3 +88,5 @@
 	        this.val = val;
 	    }
 	}
+
+```
