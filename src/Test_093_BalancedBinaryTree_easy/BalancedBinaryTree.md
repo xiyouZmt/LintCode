@@ -1,5 +1,5 @@
 ## LintCode
-### 093. <a href="http://www.lintcode.com/en/problem/balanced-binary-tree/"> Balanced Binary Tree (Easy) </a>
+### 93. <a href="http://www.lintcode.com/en/problem/balanced-binary-tree/"> Balanced Binary Tree (Easy) </a>
 
 	package Test_093_BalancedBinaryTree_easy;
 
