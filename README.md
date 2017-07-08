@@ -37,7 +37,7 @@
 
 * [45. MaximumSubarrayDifference (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.md)
 
-* [69. BinaryTreeLevelOrder](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_069_BinaryTreeLevelOrder_easy/BinaryTreeLevelOrder.md)
+* [69. BinaryTreeLevelOrder (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_069_BinaryTreeLevelOrder_easy/BinaryTreeLevelOrder.md)
 
 * [93. Balanced Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md)
 
