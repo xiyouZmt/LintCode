@@ -1,5 +1,5 @@
 ## LintCode
-### 211. <a href="http://lintcode.com/en/problem/string-permutation/"> String Permutation (Easy) </a>
+### 211. <a href="http://www.lintcode.com/en/problem/string-permutation/"> String Permutation (Easy) </a>
 
 ```java
 

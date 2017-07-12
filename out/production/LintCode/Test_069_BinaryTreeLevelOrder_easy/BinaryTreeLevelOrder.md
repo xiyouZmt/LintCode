@@ -1,3 +1,8 @@
+## LintCode
+### 69. [BinaryTreeLevelOrder (Easy)](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/)
+
+```java
+
 package Test_069_BinaryTreeLevelOrder_easy;
 
 import java.util.ArrayList;
@@ -7,11 +12,6 @@ import java.util.List;
  * Created by zmt on 2017/7/8.
  */
 public class BinaryTreeLevelOrder {
-
-    public static void main(String [] args){
-
-    }
-
     public ArrayList<ArrayList<Integer>> levelOrder(TreeNode root) {
         // write your code here
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
@@ -22,6 +22,7 @@ public class BinaryTreeLevelOrder {
             ArrayList<Integer> rootInteger = new ArrayList<>();
             rootInteger.add(root.val);
             list.add(rootInteger);
+
             List<TreeNode> childList = new ArrayList<>();
             List<TreeNode> tempList;
             while (true){
@@ -69,3 +70,5 @@ class TreeNode {
         this.left = this.right = null;
     }
 }
+
+```

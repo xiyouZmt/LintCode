@@ -1,5 +1,5 @@
 ## LintCode
-### 408. <a href="http://lintcode.com/en/problem/add-binary/"> Add Binary (Easy) </a>
+### 408. <a href="http://www.lintcode.com/en/problem/add-binary/"> Add Binary (Easy) </a>
 
 ```java
 

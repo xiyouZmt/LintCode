@@ -11,7 +11,7 @@ public class AddBinary {
         // Write your code here
         if(a != null && b != null){
             StringBuilder builder = new StringBuilder();
-            if(!a.equals(b)){
+            if(a.length() != b.length()){
                 int aLength = a.length();
                 int bLength = b.length();
                 for (int i = 0; i < Math.abs(aLength - bLength); i++) {
