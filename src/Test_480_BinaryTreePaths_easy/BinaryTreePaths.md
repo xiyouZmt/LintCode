@@ -1,3 +1,8 @@
+## LintCode
+### 480. <a href="http://www.lintcode.com/en/problem/binary-tree-paths/"> Binary Tree Paths (Easy) </a>
+
+```java
+
 package Test_480_BinaryTreePaths_easy;
 
 import java.util.ArrayList;
@@ -52,3 +57,5 @@ class TreeNode {
         this.left = this.right = null;
     }
 }
+
+```

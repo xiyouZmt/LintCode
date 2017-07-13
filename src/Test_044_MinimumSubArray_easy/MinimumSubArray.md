@@ -1,5 +1,5 @@
 ## LintCode
-### 44. <a href="http://lintcode.com/en/problem/minimum-subarray/"> MinimumSubArray (Easy) </a>
+### 44. <a href="http://www.lintcode.com/en/problem/minimum-subarray/"> MinimumSubArray (Easy) </a>
 
 ```java
 

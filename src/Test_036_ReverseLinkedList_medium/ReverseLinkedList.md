@@ -1,5 +1,5 @@
 ## LintCode
-### 36. <a href="http://lintcode.com/problem/reverse-linked-list-ii"> Reverse          LinkedList (Medium) </a>
+### 36. <a href="http://www.lintcode.com/problem/reverse-linked-list-ii"> Reverse          LinkedList (Medium) </a>
 
 ```java
 

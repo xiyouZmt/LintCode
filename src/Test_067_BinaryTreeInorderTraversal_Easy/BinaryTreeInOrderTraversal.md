@@ -1,4 +1,9 @@
-package Test_067_BinaryTreeInOrderTraversal_Easy;
+## LintCode
+### 67. <a href="http://www.lintcode.com/en/problem/binary-tree-inorder-traversal/"> Binary Tree Inorder Traversal (Easy) </a>
+
+```java
+
+package Test_067_BinaryTreeInorderTraversal_Easy;
 
 import java.util.ArrayList;
 
@@ -34,3 +39,5 @@ class TreeNode {
         this.left = this.right = null;
     }
 }
+
+```

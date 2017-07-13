@@ -1,5 +1,5 @@
 ## LintCode
-### 7. <a href="http://lintcode.com/problem/binary-tree-serialization"> SerializeAndDeserialize (Medium) </a>
+### 7. <a href="http://www.lintcode.com/problem/binary-tree-serialization"> SerializeAndDeserialize (Medium) </a>
 
 ```java
 

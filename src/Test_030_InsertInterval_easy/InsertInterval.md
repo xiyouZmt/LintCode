@@ -1,5 +1,5 @@
 ## LintCode
-### 30. <a href="http://lintcode.com/problem/insert-interval"> Insert Interval (Easy) </a>
+### 30. <a href="http://www.lintcode.com/problem/insert-interval"> Insert Interval (Easy) </a>
 
 ```java
 

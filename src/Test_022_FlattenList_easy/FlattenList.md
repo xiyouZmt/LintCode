@@ -1,5 +1,5 @@
 ## LintCode
-### 22. <a href="http://lintcode.com/problem/flatten-list"> Flatten List (Easy) </a>
+### 22. <a href="http://www.lintcode.com/problem/flatten-list"> Flatten List (Easy) </a>
 
 ```java
 

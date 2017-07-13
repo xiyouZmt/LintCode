@@ -1,5 +1,5 @@
 ## LintCode
-### 3. <a href="http://lintcode.com/problem/digit-counts"> Digit Counts (Medium) </a>
+### 3. <a href="http://www.lintcode.com/problem/digit-counts"> Digit Counts (Medium) </a>
 
 ```java
 

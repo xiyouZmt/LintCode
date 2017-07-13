@@ -1,4 +1,4 @@
-package Test_068_BinaryTreePostOrderTraversal_Easy;
+package Test_068_BinaryTreePostorderTraversal_Easy;
 
 import java.util.ArrayList;
 

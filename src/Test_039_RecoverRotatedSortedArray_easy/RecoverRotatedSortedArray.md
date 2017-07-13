@@ -1,5 +1,5 @@
 ## LintCode
-### 39. <a href="http://lintcode.com/zh-cn/problem/recover-rotated-sorted-array/"> Recover Rotated Sorted Array (Easy) </a>
+### 39. <a href="http://www.lintcode.com/zh-cn/problem/recover-rotated-sorted-array/"> Recover Rotated Sorted Array (Easy) </a>
 
 ```java
 

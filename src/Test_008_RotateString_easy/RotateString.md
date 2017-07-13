@@ -1,5 +1,5 @@
 ## LintCode
-### 8. <a href="http://lintcode.com/problem/rotate-string"> Rotate String (Easy) </a>
+### 8. <a href="http://www.lintcode.com/problem/rotate-string"> Rotate String (Easy) </a>
 
 ```java
 
