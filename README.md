@@ -37,17 +37,31 @@
 
 * [45. MaximumSubarrayDifference (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.md)
 
-* [69. BinaryTreeLevelOrder (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_069_BinaryTreeLevelOrder_easy/BinaryTreeLevelOrder.md)
+* [66. Binary Tree Preorder Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_066_BinaryTreePreorderTraversal_Easy/BinaryTreePreOrderTraversal.md)
+
+* [67. Binary Tree Inorder Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_067_BinaryTreeInorderTraversal_Easy/BinaryTreeInOrderTraversal.md)
+
+* [68. Binary Tree Postorder Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_068_BinaryTreePostorderTraversal_Easy/BinaryTreePostOrderTraversal.md)
+
+* [69. Binary Tree LevelOrder (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_069_BinaryTreeLevelOrder_easy/BinaryTreeLevelOrder.md)
 
 * [93. Balanced Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md)
 
 * [100. Remeve Duplicates from Sorted Arrays (Easy) ](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
 
+* [111. Climbing Stairs (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_111_ClimbingStairs_easy/ClimbingStairs.md)
+
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
 
-* [408. AddBinary(Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_408_AddBinary_easy/AddBinary.md)
+* [376. Binary Tree Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md)
+
+* [408. Add Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_408_AddBinary_easy/AddBinary.md)
+
+* [480. Binary Tree Paths (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.md)
 
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
+
+* [655. Big Integer Addition (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_655_BigIntegerAddition_easy/BigIntegerAddition.md)
 
 ### About  me
 #### Mobile Application developer
