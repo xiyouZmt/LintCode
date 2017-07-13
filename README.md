@@ -37,6 +37,8 @@
 
 * [45. MaximumSubarrayDifference (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.md)
 
+* [55. CompareStrings (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md)
+
 * [66. Binary Tree Preorder Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_066_BinaryTreePreorderTraversal_Easy/BinaryTreePreOrderTraversal.md)
 
 * [67. Binary Tree Inorder Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_067_BinaryTreeInorderTraversal_Easy/BinaryTreeInOrderTraversal.md)
