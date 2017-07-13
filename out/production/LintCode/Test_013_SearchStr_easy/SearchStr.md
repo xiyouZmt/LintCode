@@ -1,5 +1,5 @@
 ## LintCode
-### 13. <a href="http://lintcode.com/problem/strstr"> strStr (Easy) </a>
+### 13. <a href="http://www.lintcode.com/problem/strstr"> strStr (Easy) </a>
 
 ```java
 

@@ -1,5 +1,5 @@
 ## LintCode
-### 1. <a href="http://lintcode.com/problem/a-b-problem" target="_blank"> A Plus B (Easy) <a/>
+### 1. <a href="http://www.lintcode.com/problem/a-b-problem" target="_blank"> A Plus B (Easy) <a/>
     
 ```java
 

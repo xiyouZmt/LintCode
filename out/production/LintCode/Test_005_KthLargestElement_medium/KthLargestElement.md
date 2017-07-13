@@ -1,5 +1,5 @@
 ## LintCode
-### 5. <a href="http://lintcode.com/problem/kth-largest-element"> Kth Largest Element (Medium) </a>
+### 5. <a href="http://www.lintcode.com/problem/kth-largest-element"> Kth Largest Element (Medium) </a>
 	
 ```java
 

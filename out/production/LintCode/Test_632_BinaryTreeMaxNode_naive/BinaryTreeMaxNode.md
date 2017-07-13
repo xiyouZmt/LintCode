@@ -1,5 +1,5 @@
 ## LintCode
-### 632.  <a Href="http://lintcode.com/en/problem/binary-tree-maximum-node/"> Binary Tree Maxnum Node (Naive) </a>
+### 632.  <a Href="http://www.lintcode.com/en/problem/binary-tree-maximum-node/"> Binary Tree Maxnum Node (Naive) </a>
 
 ```java
 

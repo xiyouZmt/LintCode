@@ -1,5 +1,5 @@
 ## LintCode
-### 35. <a href="http://lintcode.com/problem/reverse-linked-list"> Reverse LinkedList (Easy) </a>
+### 35. <a href="http://www.lintcode.com/problem/reverse-linked-list"> Reverse LinkedList (Easy) </a>
 
 ```java
 

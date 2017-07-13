@@ -1,5 +1,5 @@
 ## LintCode
-### 28. <a href="http://lintcode.com/problem/search-a-2d-matrix"> Search2DMatrix (Easy) </a>
+### 28. <a href="http://www.lintcode.com/problem/search-a-2d-matrix"> Search2DMatrix (Easy) </a>
 
 ```java
 

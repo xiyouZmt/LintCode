@@ -1,5 +1,5 @@
 ## LintCode
-### 14. <a href="http://lintcode.com/problem/first-position-of-target"> FirstPositionOfTarget (Easy) </a>
+### 14. <a href="http://www.lintcode.com/problem/first-position-of-target"> FirstPositionOfTarget (Easy) </a>
 
 ```java
 

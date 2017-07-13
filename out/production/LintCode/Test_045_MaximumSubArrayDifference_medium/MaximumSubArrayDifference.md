@@ -1,5 +1,5 @@
 ## LintCode
-### 45. <a href="http://lintcode.com/en/problem/maximum-subarray-difference/"> Maximum SubArray Diference (Medium) </a>
+### 45. <a href="http://www.lintcode.com/en/problem/maximum-subarray-difference/"> Maximum SubArray Diference (Medium) </a>
 
 ```java
 

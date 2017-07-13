@@ -1,5 +1,5 @@
 ## LintCode
-### 6. <a href="http://lintcode.com/problem/merge-two-sorted-arrays"> Merge Two Sorted Arrays (Easy) </a>
+### 6. <a href="http://www.lintcode.com/problem/merge-two-sorted-arrays"> Merge Two Sorted Arrays (Easy) </a>
 
 ```java
 

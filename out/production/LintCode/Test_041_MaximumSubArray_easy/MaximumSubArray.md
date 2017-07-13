@@ -1,5 +1,5 @@
 ## LintCode
-### 41. <a href="http://lintcode.com/en/problem/maximum-subarray/"> MaximumSubArray </a>
+### 41. <a href="http://www.lintcode.com/en/problem/maximum-subarray/"> MaximumSubArray </a>
 
 ```java
 

@@ -1,5 +1,5 @@
 ## LintCode
-### 2.  <a href="http://lintcode.com/problem/trailing-zeros"> Trailing Zeros (Easy) </a>
+### 2.  <a href="http://www.lintcode.com/problem/trailing-zeros"> Trailing Zeros (Easy) </a>
 
 ```java
 
