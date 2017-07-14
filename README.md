@@ -53,17 +53,25 @@
 
 * [111. Climbing Stairs (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_111_ClimbingStairs_easy/ClimbingStairs.md)
 
+* [177. Convert Sorted Array to Binary Search Tree With Minimal Height (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_177_BinarySearchTreeWithMinimalHeight_easy/MinimalHeight.md)
+
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
+
+* [365. Count 1 in Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_365_Count1InBinary_easy/Count1InBinary.md)
 
 * [376. Binary Tree Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md)
 
 * [408. Add Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_408_AddBinary_easy/AddBinary.md)
+
+* [445. Cosine Similarity (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_445_CosineSimilarity_easy/CosineSimilarity.md)
 
 * [480. Binary Tree Paths (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.md)
 
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
 
 * [655. Big Integer Addition (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_655_BigIntegerAddition_easy/BigIntegerAddition.md)
+
+* [661. Convert BST to GreaterTree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_661_ConvertBSTToGreaterTree_easy/ConvertBSTToGreaterTree.md)
 
 ### About  me
 #### Mobile Application developer
