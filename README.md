@@ -59,15 +59,23 @@
 
 * [365. Count 1 in Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_365_Count1InBinary_easy/Count1InBinary.md)
 
+* [372. Delete Node in the Middle of Singly Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_372_DeleteNode_easy/DeleteNode.md)
+
 * [376. Binary Tree Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md)
 
 * [408. Add Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_408_AddBinary_easy/AddBinary.md)
 
+* [420. CountAndSay (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_420_CountAndSay_easy/CountAndSay.md)
+
 * [445. Cosine Similarity (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_445_CosineSimilarity_easy/CosineSimilarity.md)
+
+* [453. Flatten Binary Tree to Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md)
 
 * [480. Binary Tree Paths (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.md)
 
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
+
+* [646. First Position Unique Character (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md)
 
 * [655. Big Integer Addition (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_655_BigIntegerAddition_easy/BigIntegerAddition.md)
 
