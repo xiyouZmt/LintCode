@@ -53,7 +53,11 @@
 
 * [111. Climbing Stairs (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_111_ClimbingStairs_easy/ClimbingStairs.md)
 
+* [128. Hash Function (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_128_HashFunction_easy/HashFunction.md)
+
 * [177. Convert Sorted Array to Binary Search Tree With Minimal Height (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_177_BinarySearchTreeWithMinimalHeight_easy/MinimalHeight.md)
+
+* [181. Flip Bits (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_181_FlipBits_easy/FlipBits.md)
 
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
 
@@ -73,6 +77,8 @@
 
 * [480. Binary Tree Paths (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.md)
 
+* [488. Happy Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_488_HappyNumber_easy/HappyNumber.md)
+
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
 
 * [646. First Position Unique Character (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md)
@@ -80,6 +86,8 @@
 * [655. Big Integer Addition (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_655_BigIntegerAddition_easy/BigIntegerAddition.md)
 
 * [661. Convert BST to GreaterTree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_661_ConvertBSTToGreaterTree_easy/ConvertBSTToGreaterTree.md)
+
+* [662. Guess Number Game (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_662_GuessNumberGame_easy/GuessNumberGame.md)
 
 ### About  me
 #### Mobile Application developer
