@@ -1,4 +1,4 @@
-package Test_007_SerializeAndDeserialize_medium;
+package Test_007_BinaryTreeSerialization_medium;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by zmt on 2017/6/22.
  */
-public class SerializeAndDeserialize {
+public class BinaryTreeSerialization {
     public static void main(String [] args){
         System.out.println(serialize(deserialize("{1,2,3,11,#,4,5,#,#,6,7,#,10,#,#,8,9,#,#,12,13,#,#,#,#,#,14}")));
     }

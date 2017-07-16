@@ -3,7 +3,7 @@
 
 ```java
 
-package Test_007_SerializeAndDeserialize_medium;
+package Test_007_BinaryTreeSerialization_medium;
 
 import java.util.ArrayList;
 import java.util.List;

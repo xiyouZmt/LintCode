@@ -9,7 +9,7 @@
 
 * [6. Merge Two Sorted Arrays (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_006_MergeSortedArray_easy/MergeTwoSortedArrays.md)
 
-* [7. SerializeAndDeserialize (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_007_SerializeAndDeserialize_medium/SerializeAndDeserialize.md)
+* [7. Binary Tree Serialization (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_007_BinaryTreeSerialization_medium/BinaryTreeSerialization.md)
 
 * [8. Rotate String (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_008_RotateString_easy/RotateString.md)
 
