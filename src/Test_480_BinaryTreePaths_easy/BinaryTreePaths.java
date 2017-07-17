@@ -10,30 +10,30 @@ public class BinaryTreePaths {
     public static void main(String [] args){
 
     }
-    public List<String> binaryTreePaths(Test_453_FlattenBinaryTreeToLinkedList_easy.TreeNode root) {
+    public List<String> binaryTreePaths(TreeNode root) {
         // Write your code here
         List<String> pathList = new ArrayList<>();
         StringBuilder builder = new StringBuilder();
         if (root == null){
             return pathList;
         }
-        builder.append(root.val + "");
+        builder.append(root.val).append("");
         traversalPath(root, pathList, builder);
         return pathList;
     }
 
-    public void traversalPath(Test_453_FlattenBinaryTreeToLinkedList_easy.TreeNode root, List<String> pathList, StringBuilder builder){
+    public void traversalPath(TreeNode root, List<String> pathList, StringBuilder builder){
         if (root.left == null && root.right == null){
             pathList.add(builder.toString());
             return;
         }
         if (root.left != null){
-            builder.append("->" + root.left.val);
+            builder.append("->").append(root.left.val);
             traversalPath(root.left, pathList, builder);
             builder.delete(builder.lastIndexOf("->"), builder.length());
         }
         if (root.right != null){
-            builder.append("->" + root.right.val);
+            builder.append("->").append(root.right.val);
             traversalPath(root.right, pathList, builder);
             builder.delete(builder.lastIndexOf("->"), builder.length());
         }
@@ -45,7 +45,7 @@ public class BinaryTreePaths {
  */
 class TreeNode {
     public int val;
-    public Test_453_FlattenBinaryTreeToLinkedList_easy.TreeNode left, right;
+    public TreeNode left, right;
 
     public TreeNode(int val) {
         this.val = val;

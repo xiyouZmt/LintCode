@@ -8,6 +8,7 @@ public class FlipBits {
     public static void main(String [] args){
         System.out.println(bitSwapRequired(12, 10));
     }
+
     public static int bitSwapRequired(int a, int b) {
         // write your code here
         int xor = a ^ b;
