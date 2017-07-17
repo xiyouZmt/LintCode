@@ -47,6 +47,8 @@
 
 * [69. Binary Tree LevelOrder (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_069_BinaryTreeLevelOrder_easy/BinaryTreeLevelOrder.md)
 
+* [85. Insert Node in a Binary Search Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.md)
+
 * [93. Balanced Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md)
 
 * [100. Remeve Duplicates from Sorted Arrays (Easy) ](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
@@ -54,6 +56,8 @@
 * [111. Climbing Stairs (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_111_ClimbingStairs_easy/ClimbingStairs.md)
 
 * [128. Hash Function (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_128_HashFunction_easy/HashFunction.md)
+
+* [173. Insertion Sort List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md)
 
 * [177. Convert Sorted Array to Binary Search Tree With Minimal Height (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_177_BinarySearchTreeWithMinimalHeight_easy/MinimalHeight.md)
 
@@ -75,9 +79,13 @@
 
 * [453. Flatten Binary Tree to Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md)
 
+* [469. Identical Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.md)
+
 * [480. Binary Tree Paths (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.md)
 
 * [488. Happy Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_488_HappyNumber_easy/HappyNumber.md)
+
+* [547. Intersection of Two Arrays (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.md)
 
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
 

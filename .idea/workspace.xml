@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_173_InsertionSortList_easy/InsertionSortList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_181_FlipBits_easy/FlipBits.java" afterPath="$PROJECT_DIR$/src/Test_181_FlipBits_easy/FlipBits.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.java" afterPath="$PROJECT_DIR$/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.java" />
-    </list>
+    <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IdenticalBinaryTree.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="IdenticalBinaryTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="171">
+              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -37,7 +29,7 @@
       <file leaf-file-name="InsertNodeInBinarySearchTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
+            <state relative-caret-position="684">
               <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
               <folding />
             </state>
@@ -54,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntersectionOfTwoArrays.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntersectionOfTwoArrays.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="684">
@@ -1159,22 +1151,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_173_InsertionSortList_easy/InsertionSortList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -1190,6 +1166,22 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
