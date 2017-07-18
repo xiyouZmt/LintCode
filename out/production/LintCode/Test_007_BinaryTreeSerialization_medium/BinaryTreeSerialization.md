@@ -1,9 +1,9 @@
 ## LintCode
-### 7. <a href="http://www.lintcode.com/problem/binary-tree-serialization"> SerializeAndDeserialize (Medium) </a>
+### 7. <a href="http://www.lintcode.com/problem/binary-tree-serialization"> Binary Tree Serialization (Medium) </a>
 
 ```java
 
-package Test_007_SerializeAndDeserialize_medium;
+package Test_007_BinaryTreeSerialization_medium;
 
 import java.util.ArrayList;
 import java.util.List;

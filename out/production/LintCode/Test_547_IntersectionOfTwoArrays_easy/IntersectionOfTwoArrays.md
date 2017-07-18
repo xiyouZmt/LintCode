@@ -1,3 +1,8 @@
+## LintCode
+### 547. <a href="http://www.lintcode.com/en/problem/intersection-of-two-arrays/"> Intersection of Two Arrays (Easy) </a>
+
+```java
+
 package Test_547_IntersectionOfTwoArrays_easy;
 
 import java.util.Arrays;
@@ -18,13 +23,13 @@ public class IntersectionOfTwoArrays {
             return null;
         }
         HashSet<Integer> set = new HashSet<>();
-        for (int aNubs1 : nums1) {
-            set.add(aNubs1);
+        for(int i = 0; i < nums1.length; i++){
+            set.add(nums1[i]);
         }
         HashSet<Integer> result = new HashSet<>();
-        for (int aNubs2 : nums2) {
-            if (set.contains(aNubs2) && !result.contains(aNubs2)) {
-                result.add(aNubs2);
+        for(int i = 0; i < nums2.length; i++){
+            if(set.contains(nums2[i]) && !result.contains(nums2[i])){
+                result.add(nums2[i]);
             }
         }
         int [] intersection = new int[result.size()];
@@ -35,3 +40,5 @@ public class IntersectionOfTwoArrays {
         return intersection;
     }
 }
+
+```
