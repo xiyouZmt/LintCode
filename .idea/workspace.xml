@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_524_LeftPad_easy/LeftPad.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_548_IntersectionOfTwoArraysII_easy/IntersectionOfTwoArraysII.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_007_SerializeAndDeserialize_medium/SerializeAndDeserialize.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_007_SerializeAndDeserialize_medium/SerializeAndDeserialize.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_007_SerializeAndDeserialize_medium/TreeNode.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_480_BinaryTreePaths_easy/BinaryTreePaths.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_480_BinaryTreePaths_easy/BinaryTreePaths.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.java" afterPath="$PROJECT_DIR$/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.java" />
-    </list>
+    <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IntersectionOfTwoArraysII.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="IntersectionOfTwoArraysII.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test_548_IntersectionOfTwoArraysII_easy/IntersectionOfTwoArraysII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="57">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LengthOfLastWord.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LengthOfLastWord.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -1089,22 +1077,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_548_IntersectionOfTwoArraysII_easy/IntersectionOfTwoArraysII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_524_LeftPad_easy/LeftPad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1121,6 +1093,22 @@
             <element signature="e#156#157#0" expanded="true" />
             <element signature="e#220#221#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_548_IntersectionOfTwoArraysII_easy/IntersectionOfTwoArraysII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

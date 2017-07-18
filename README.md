@@ -59,6 +59,8 @@
 
 * [173. Insertion Sort List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md)
 
+* [175. Invert Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.md)
+
 * [177. Convert Sorted Array to Binary Search Tree With Minimal Height (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_177_BinarySearchTreeWithMinimalHeight_easy/MinimalHeight.md)
 
 * [181. Flip Bits (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_181_FlipBits_easy/FlipBits.md)
@@ -75,6 +77,8 @@
 
 * [420. CountAndSay (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_420_CountAndSay_easy/CountAndSay.md)
 
+* [422. Length of Last Word (Easy)]()
+
 * [445. Cosine Similarity (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_445_CosineSimilarity_easy/CosineSimilarity.md)
 
 * [453. Flatten Binary Tree to Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md)
@@ -85,7 +89,11 @@
 
 * [488. Happy Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_488_HappyNumber_easy/HappyNumber.md)
 
+* [524. Left Pad (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_524_LeftPad_easy/LeftPad.mdhttps://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
+
 * [547. Intersection of Two Arrays (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.md)
+
+* [548. Intersection of Two Arrays II (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_548_IntersectionOfTwoArraysII_easy/IntersectionOfTwoArraysII.md)
 
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
 
