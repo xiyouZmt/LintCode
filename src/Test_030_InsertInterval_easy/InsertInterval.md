@@ -56,14 +56,15 @@ class Interval {
 ```
 
 ```java
-/*
-package Test_030_InsertInterval_easy;
 
-import java.util.ArrayList;
+//package Test_030_InsertInterval_easy;
+
+//import java.util.ArrayList;
 
 /**
  * Created by zmt on 2017/6/24.
  */
+/*
 public class InsertInterval {
     public static void main(String [] args){
 
@@ -126,10 +127,11 @@ public class InsertInterval {
         return intervals;
     }
 }
-
+*/
 /**
  * Definition of Interval:
  */
+/*
 class Interval {
     int start,end;
     Interval(int start,int end){

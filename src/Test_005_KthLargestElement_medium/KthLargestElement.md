@@ -56,12 +56,13 @@ public class KthLargestElement {
 ```
 
 ```java
-/*
-package Test_005_KthLargestElement_medium;
+
+//package Test_005_KthLargestElement_medium;
 
 /**
  * Created by zmt on 2017/6/21.
  */
+/*
 public class KthLargestElement {
     public static void main(String [] args){
         int [] nums = {9, 3, 4, 2, 8};

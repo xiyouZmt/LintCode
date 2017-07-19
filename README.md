@@ -49,9 +49,13 @@
 
 * [69. Binary Tree LevelOrder (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_069_BinaryTreeLevelOrder_easy/BinaryTreeLevelOrder.md)
 
+* [80. Median (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_080_Median_easy/Median.md)
+
 * [85. Insert Node in a Binary Search Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.md)
 
 * [93. Balanced Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md)
+
+* [97. Maximum Depth of Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_097_MaximumDepthOfBinaryTree_easy/MaximumDepthOfBinaryTree.md)
 
 * [100. Remeve Duplicates from Sorted Arrays (Easy) ](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
 
@@ -61,6 +65,8 @@
 
 * [133. Longest Words (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_133_LongestWords_easy/LongestWords.md)
 
+* [156. Merge Intervals (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_156_MergeIntervals_easy/MergeIntervals.md)
+
 * [173. Insertion Sort List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md)
 
 * [175. Invert Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.md)
@@ -68,6 +74,8 @@
 * [177. Convert Sorted Array to Binary Search Tree With Minimal Height (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_177_BinarySearchTreeWithMinimalHeight_easy/MinimalHeight.md)
 
 * [181. Flip Bits (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_181_FlipBits_easy/FlipBits.md)
+
+* [185. Matrix Zigzag Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_185_MatrixZigzagTraversal_easy/MatrixZigzagTraversal.md)
 
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
 
