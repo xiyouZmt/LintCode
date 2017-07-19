@@ -37,6 +37,8 @@
 
 * [45. MaximumSubarrayDifference (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.md)
 
+* [46. Majority Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_046_MajorityNumber_easy/MajorityNumber.md)
+
 * [55. CompareStrings (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md)
 
 * [66. Binary Tree Preorder Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_066_BinaryTreePreorderTraversal_Easy/BinaryTreePreOrderTraversal.md)
@@ -57,6 +59,8 @@
 
 * [128. Hash Function (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_128_HashFunction_easy/HashFunction.md)
 
+* [133. Longest Words (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_133_LongestWords_easy/LongestWords.md)
+
 * [173. Insertion Sort List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md)
 
 * [175. Invert Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.md)
@@ -73,11 +77,13 @@
 
 * [376. Binary Tree Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md)
 
+* [397. Longest Increasing Continuous Subsequence (Easy)]()
+
 * [408. Add Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_408_AddBinary_easy/AddBinary.md)
 
 * [420. CountAndSay (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_420_CountAndSay_easy/CountAndSay.md)
 
-* [422. Length of Last Word (Easy)]()
+* [422. Length of Last Word (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
 
 * [445. Cosine Similarity (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_445_CosineSimilarity_easy/CosineSimilarity.md)
 
@@ -94,6 +100,8 @@
 * [547. Intersection of Two Arrays (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.md)
 
 * [548. Intersection of Two Arrays II (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_548_IntersectionOfTwoArraysII_easy/IntersectionOfTwoArraysII.md)
+
+* [627. Longest Palindrome (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_627_LongestPalindrome_easy/LongestPalindrome.md)
 
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
 
