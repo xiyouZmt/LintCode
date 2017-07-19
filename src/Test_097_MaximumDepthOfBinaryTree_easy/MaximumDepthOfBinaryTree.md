@@ -1,4 +1,9 @@
-package Test_97_MaximumDepthOfBinaryTree_easy;
+## LintCode
+### 97. <a href="http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/"> Maximum Depth of Binary Tree (Easy) </a>
+
+```java
+
+package Test_097_MaximumDepthOfBinaryTree_easy;
 
 /**
  * Created by zmt on 2017/7/19.
@@ -29,3 +34,5 @@ class TreeNode {
         this.left = this.right = null;
     }
 }
+
+```

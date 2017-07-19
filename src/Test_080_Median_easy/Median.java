@@ -1,4 +1,4 @@
-package Test_80_Median_easy;
+package Test_080_Median_easy;
 
 /**
  * Created by zmt on 2017/7/19.
