@@ -1,22 +1,22 @@
-package Test_005_KthLargestElement_medium;
+package Test_80_Median_easy;
 
 /**
- * Created by zmt on 2017/6/21.
+ * Created by zmt on 2017/7/19.
  */
-public class KthLargestElement {
+public class Median {
     public static void main(String [] args){
-        int [] nums = {9, 3, 4, 2, 8};
-        System.out.println(kthLargestElement(3, nums));
+        int [] nums = {4, 5, 1, 2, 3};
+        System.out.println(median(nums));
     }
-
-    public static int kthLargestElement(int k, int[] nums) {
+    public static int median(int[] nums) {
+        // write your code here
         if(nums == null || nums.length == 0){
             return -1;
         }
-        if(k <= 0 || k > nums.length){
-            return -1;
+        if(nums.length == 1){
+            return nums[0];
         }
-        int median = nums.length - k;
+        int median = nums.length % 2 == 0 ? nums.length / 2 - 1 : nums.length / 2;
         return helper(nums, 0, nums.length - 1, median);
     }
 
@@ -46,4 +46,5 @@ public class KthLargestElement {
         nums[left] = pivot;
         return left;
     }
+
 }

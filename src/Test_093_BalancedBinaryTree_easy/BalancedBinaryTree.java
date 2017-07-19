@@ -1,7 +1,7 @@
 package Test_093_BalancedBinaryTree_easy;
 
 /**
- * Created by zmt on 2017/6/11.
+ * Created by zmt on 2017/  6/11.
  */
 public class BalancedBinaryTree {
 
@@ -18,8 +18,8 @@ public class BalancedBinaryTree {
         if(treeNode == null){
             return 0;
         }
-        int left = treeDepth(treeNode.getLeft());
-        int right = treeDepth(treeNode.getRight());
+        int left = treeDepth(treeNode.left);
+        int right = treeDepth(treeNode.right);
         return  left > right ? left + 1 : right + 1;
     }
 
@@ -32,13 +32,13 @@ public class BalancedBinaryTree {
         if(treeNode == null){
             return true;
         }
-        int left = treeDepth(treeNode.getLeft());
-        int right = treeDepth(treeNode.getRight());
+        int left = treeDepth(treeNode.left);
+        int right = treeDepth(treeNode.right);
         int distance = left - right;
         if(distance > 1 || distance < -1){
             return false;
         }
-        return isBalanced(treeNode.getLeft()) && isBalanced(treeNode.getRight());
+        return isBalanced(treeNode.left) && isBalanced(treeNode.right);
     }
 
     /**
@@ -52,35 +52,15 @@ public class BalancedBinaryTree {
 //    }
 
 }
-class TreeNode{
-    private int val;
-    private TreeNode left, right;
 
+/**
+ * Definition of TreeNode
+ */
+class TreeNode {
+    public int val;
+    public TreeNode left, right;
     public TreeNode(int val) {
         this.val = val;
-    }
-
-    public TreeNode getLeft() {
-        return left;
-    }
-
-    public TreeNode getRight() {
-        return right;
-    }
-
-    public void setLeft(TreeNode left) {
-        this.left = left;
-    }
-
-    public void setRight(TreeNode right) {
-        this.right = right;
-    }
-
-    public int getVal() {
-        return val;
-    }
-
-    public void setVal(int val) {
-        this.val = val;
+        this.left = this.right = null;
     }
 }
