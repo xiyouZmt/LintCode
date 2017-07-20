@@ -1,3 +1,8 @@
+## LintCode
+### 80. <a href="http://www.lintcode.com/en/problem/median/"> Median (Easy) </a>
+
+```java
+
 package Test_080_Median_easy;
 
 /**
@@ -46,4 +51,7 @@ public class Median {
         nums[left] = pivot;
         return left;
     }
+
 }
+
+```

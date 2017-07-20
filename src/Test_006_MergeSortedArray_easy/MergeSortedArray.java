@@ -14,6 +14,7 @@ public class MergeSortedArray {
 
     public static int [] mergeSortedArray(int [] A, int [] B){
         if (A != null && B != null && A.length != 0 && B.length != 0) {
+            A = B;
             int length = A.length + B.length;
             int i = 0, n = 0, pos = 0;
             int [] newArray = new int[length];
