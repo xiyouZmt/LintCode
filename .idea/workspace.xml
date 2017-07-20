@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_064_MergeSortedArray_easy/MergeSortedArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_097_MaximumDepthOfBinaryTree_easy/MaximumDepthOfBinaryTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_097_MaximumDepthOfBinaryTree_easy/TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_110_MinimumPathSum_easy/MinimumPathSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_155_MinimumDepthOfBinaryTree_easy/TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_156_MergeIntervals_easy/Interval.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_156_MergeIntervals_easy/MergeIntervals.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_165_MergeTwoSortedLists_easy/ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_080_Median_easy/Median.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_097_MaximumDepthOfBinaryTree_easy/MaximumDepthOfBinaryTree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_156_MergeIntervals_easy/MergeIntervals.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_185_MatrixZigzagTraversal_easy/MatrixZigzagTraversal.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_064_MergeSortedArray_easy/MergeSortedArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_064_MergeSortedArray_easy/MergeSortedArray.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_110_MinimumPathSum_easy/MinimumPathSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_110_MinimumPathSum_easy/MinimumPathSum.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_006_MergeSortedArray_easy/MergeSortedArray.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_006_MergeSortedArray_easy/MergeSortedArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_030_InsertInterval_easy/InsertInterval.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_030_InsertInterval_easy/InsertInterval.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_030_InsertInterval_easy/Interval.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_030_InsertInterval_easy/Interval.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_093_BalancedBinaryTree_easy/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_093_BalancedBinaryTree_easy/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_005_KthLargestElement_medium/KthLargestElement.md" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_005_KthLargestElement_medium/KthLargestElement.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_030_InsertInterval_easy/InsertInterval.md" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_030_InsertInterval_easy/InsertInterval.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java" afterPath="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_080_Median_easy/Median.java" afterPath="$PROJECT_DIR$/src/Test_080_Median_easy/Median.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_80_Median_easy/Median.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_080_Median_easy/Median.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MergeSortedArray.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MergeSortedArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test_064_MergeSortedArray_easy/MergeSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="133">
+              <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -63,7 +31,7 @@
       <file leaf-file-name="MergeTwoSortedLists.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
+            <state relative-caret-position="1159">
               <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding />
             </state>
@@ -73,18 +41,18 @@
       <file leaf-file-name="MinimumDepthOfBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="494">
               <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumPathSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinimumPathSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_110_MinimumPathSum_easy/MinimumPathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="38">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -1111,30 +1079,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_064_MergeSortedArray_easy/MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1153,8 +1097,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_110_MinimumPathSum_easy/MinimumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="38">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_064_MergeSortedArray_easy/MergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding />
         </state>
       </provider>

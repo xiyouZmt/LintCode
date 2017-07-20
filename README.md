@@ -41,6 +41,8 @@
 
 * [55. CompareStrings (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md)
 
+* [64. Merge Sorted Array (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_064_MergeSortedArray_easy/MergeSortedArray.md)
+
 * [66. Binary Tree Preorder Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_066_BinaryTreePreorderTraversal_Easy/BinaryTreePreOrderTraversal.md)
 
 * [67. Binary Tree Inorder Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_067_BinaryTreeInorderTraversal_Easy/BinaryTreeInOrderTraversal.md)
@@ -59,13 +61,19 @@
 
 * [100. Remeve Duplicates from Sorted Arrays (Easy) ](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
 
+* [110. Minimum Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_110_MinimumPathSum_easy/MinimumPathSum.md)
+
 * [111. Climbing Stairs (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_111_ClimbingStairs_easy/ClimbingStairs.md)
 
 * [128. Hash Function (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_128_HashFunction_easy/HashFunction.md)
 
 * [133. Longest Words (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_133_LongestWords_easy/LongestWords.md)
 
+* [155. Minimum Depth of Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.md)
+
 * [156. Merge Intervals (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_156_MergeIntervals_easy/MergeIntervals.md)
+
+* [165. Merge Two Sorted Lists (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md)
 
 * [173. Insertion Sort List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md)
 
