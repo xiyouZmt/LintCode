@@ -75,7 +75,7 @@
 
 * [165. Merge Two Sorted Lists (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md)
 
-* [166. Nth to Last Node in List (Easy)]()
+* [166. Nth to Last Node in List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.md)
 
 * [173. Insertion Sort List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md)
 
@@ -89,7 +89,7 @@
 
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
 
-* [227. Mock Hanoi Tower by Stacks (Easy)]()
+* [227. Mock Hanoi Tower by Stacks (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_227_MockHanoiTowerByStacks_easy/Tower.md)
 
 * [365. Count 1 in Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_365_Count1InBinary_easy/Count1InBinary.md)
 
@@ -97,7 +97,7 @@
 
 * [376. Binary Tree Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md)
 
-* [397. Longest Increasing Continuous Subsequence (Easy)]()
+* [397. Longest Increasing Continuous Subsequence (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_397_LongestIncreasingContinuousSubSequence_easy/LongestIncreasingContinuousSubsequence.md)
 
 * [408. Add Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_408_AddBinary_easy/AddBinary.md)
 
@@ -105,7 +105,7 @@
 
 * [422. Length of Last Word (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
 
-* [433. Number of Islands]()
+* [433. Number of Islands](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_433_NumberOfIslands_easy/NumberOfIslands.md)
 
 * [445. Cosine Similarity (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_445_CosineSimilarity_easy/CosineSimilarity.md)
 
@@ -119,7 +119,7 @@
 
 * [524. Left Pad (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_524_LeftPad_easy/LeftPad.mdhttps://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
 
-* [539. Move Zeroes (Easy)]()
+* [539. Move Zeroes (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_539_MoveZeroes_easy/MoveZeroes.md)
 
 * [547. Intersection of Two Arrays (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.md)
 
