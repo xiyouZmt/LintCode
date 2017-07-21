@@ -75,6 +75,8 @@
 
 * [165. Merge Two Sorted Lists (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md)
 
+* [166. Nth to Last Node in List (Easy)]()
+
 * [173. Insertion Sort List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md)
 
 * [175. Invert Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.md)
@@ -86,6 +88,8 @@
 * [185. Matrix Zigzag Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_185_MatrixZigzagTraversal_easy/MatrixZigzagTraversal.md)
 
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
+
+* [227. Mock Hanoi Tower by Stacks (Easy)]()
 
 * [365. Count 1 in Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_365_Count1InBinary_easy/Count1InBinary.md)
 
@@ -101,6 +105,8 @@
 
 * [422. Length of Last Word (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
 
+* [433. Number of Islands]()
+
 * [445. Cosine Similarity (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_445_CosineSimilarity_easy/CosineSimilarity.md)
 
 * [453. Flatten Binary Tree to Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md)
@@ -112,6 +118,8 @@
 * [488. Happy Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_488_HappyNumber_easy/HappyNumber.md)
 
 * [524. Left Pad (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_524_LeftPad_easy/LeftPad.mdhttps://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
+
+* [539. Move Zeroes (Easy)]()
 
 * [547. Intersection of Two Arrays (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.md)
 

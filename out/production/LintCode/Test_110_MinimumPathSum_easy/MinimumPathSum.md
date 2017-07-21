@@ -1,3 +1,8 @@
+## LintCode
+### 110. <a href="http://www.lintcode.com/en/problem/minimum-path-sum/"> Minimum Path Sum (Easy) </a>
+
+```java
+
 package Test_110_MinimumPathSum_easy;
 
 /**
@@ -23,7 +28,7 @@ public class MinimumPathSum {
         for(int i = 1; i < row; i++){
             dp[i][0] = dp[i - 1][0] + grid[i][0];
         }
-        int i = 1, j;
+        int i = 1, j = 1;
         for(; i < row; i++){
             j = 1;
             for(; j < col; j++){
@@ -33,3 +38,5 @@ public class MinimumPathSum {
         return dp[row - 1][col - 1];
     }
 }
+
+```
