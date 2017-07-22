@@ -57,6 +57,8 @@
 
 * [93. Balanced Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md)
 
+* [96. Partition List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_096_PartitionList_easy/PartitionList.md)
+
 * [97. Maximum Depth of Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_097_MaximumDepthOfBinaryTree_easy/MaximumDepthOfBinaryTree.md)
 
 * [100. Remeve Duplicates from Sorted Arrays (Easy) ](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
