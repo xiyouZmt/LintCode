@@ -69,6 +69,8 @@
 
 * [133. Longest Words (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_133_LongestWords_easy/LongestWords.md)
 
+* [142. O(1) Check Power of 2 (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.md)
+
 * [155. Minimum Depth of Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.md)
 
 * [156. Merge Intervals (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_156_MergeIntervals_easy/MergeIntervals.md)
@@ -95,6 +97,8 @@
 
 * [372. Delete Node in the Middle of Singly Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_372_DeleteNode_easy/DeleteNode.md)
 
+* [373. Partition Array by Odd and Even (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_373_PartitionArrayByOddAndEven_easy/PartitionArrayByOddAndEven.md)
+
 * [376. Binary Tree Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md)
 
 * [397. Longest Increasing Continuous Subsequence (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_397_LongestIncreasingContinuousSubSequence_easy/LongestIncreasingContinuousSubsequence.md)
@@ -116,6 +120,8 @@
 * [480. Binary Tree Paths (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.md)
 
 * [488. Happy Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_488_HappyNumber_easy/HappyNumber.md)
+
+* [491. Palindrome Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_491_PalindromeNumber_easy/PalindromeNumber.md)
 
 * [524. Left Pad (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_524_LeftPad_easy/LeftPad.mdhttps://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
 
