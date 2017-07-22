@@ -1,3 +1,10 @@
+## LintCode
+### 433. <a href="http://lintcode.com/en/problem/number-of-islands/"> Number of Islands (Easy) </a>
+
+```java
+
+package Test_110_MinimumPathSum_easy;
+
 package Test_433_NumberOfIslands_easy;
 
 /**
@@ -14,7 +21,6 @@ public class NumberOfIslands {
         };
         System.out.println(numIslands(grid));
     }
-
     public static int numIslands(boolean[][] grid) {
         // Write your code here
         if(grid == null || grid.length == 0 || grid[0].length == 0){
@@ -44,3 +50,5 @@ public class NumberOfIslands {
         }
     }
 }
+
+```

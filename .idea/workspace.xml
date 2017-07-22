@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_227_MockHanoiTowerByStacks_easy/Tower.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_433_NumberOfIslands_easy/NumberOfIslands.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_539_MoveZeroes_easy/MoveZeroes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_110_MinimumPathSum_easy/MinimumPathSum.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_110_MinimumPathSum_easy/MinimumPathSum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_373_PartitionArrayByOddAndEven_easy/PartitionArrayByOddAndEven.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_491_PalindromeNumber_easy/PalindromeNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_433_NumberOfIslands_easy/NumberOfIslands.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_433_NumberOfIslands_easy/NumberOfIslands.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_110_MinimumPathSum_easy/MinimumPathSum.java" afterPath="$PROJECT_DIR$/src/Test_110_MinimumPathSum_easy/MinimumPathSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_433_NumberOfIslands_easy/NumberOfIslands.java" afterPath="$PROJECT_DIR$/src/Test_433_NumberOfIslands_easy/NumberOfIslands.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,46 +23,37 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Tower.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_227_MockHanoiTowerByStacks_easy/Tower.java">
+      <file leaf-file-name="CheckPowerOf2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+            <state relative-caret-position="380">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#1197#1198#0" expanded="true" />
-                <element signature="e#1225#1226#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoveZeroes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_539_MoveZeroes_easy/MoveZeroes.java">
+      <file leaf-file-name="PalindromeNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_491_PalindromeNumber_easy/PalindromeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="494">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NthToLastNodeInList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.java">
+      <file leaf-file-name="PartitionArrayByOddAndEven.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_373_PartitionArrayByOddAndEven_easy/PartitionArrayByOddAndEven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberOfIslands.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test_433_NumberOfIslands_easy/NumberOfIslands.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="741">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,6 +76,7 @@
       <find>mInterval</find>
       <find>array</find>
       <find>[</find>
+      <find>easy</find>
     </findStrings>
     <replaceStrings>
       <replace>mInterval</replace>
@@ -106,9 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_055_CompareStrings_easy/CompareStrings.java" />
-        <option value="$PROJECT_DIR$/src/Test_365_Count1InBinary_easy/Count1InBinary.java" />
-        <option value="$PROJECT_DIR$/../../jdk/src.zip!/java/util/LinkedHashMap.java" />
         <option value="$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.java" />
         <option value="$PROJECT_DIR$/src/Test_480_BinaryTreePaths_easy/FlattenBinaryTreeToLinkedList.java" />
         <option value="$PROJECT_DIR$/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.java" />
@@ -153,10 +140,13 @@
         <option value="$PROJECT_DIR$/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md" />
         <option value="$PROJECT_DIR$/src/Test_064_MergeSortedArray_easy/MergeSortedArray.md" />
         <option value="$PROJECT_DIR$/src/Test_110_MinimumPathSum_easy/MinimumPathSum.java" />
-        <option value="$PROJECT_DIR$/src/Test_433_NumberOfIslands_easy/NumberOfIslands.java" />
         <option value="$PROJECT_DIR$/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.java" />
         <option value="$PROJECT_DIR$/src/Test_227_MockHanoiTowerByStacks_easy/Tower.java" />
         <option value="$PROJECT_DIR$/src/Test_539_MoveZeroes_easy/MoveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/Test_433_NumberOfIslands_easy/NumberOfIslands.java" />
+        <option value="$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java" />
+        <option value="$PROJECT_DIR$/src/Test_491_PalindromeNumber_easy/PalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/Test_373_PartitionArrayByOddAndEven_easy/PartitionArrayByOddAndEven.java" />
       </list>
     </option>
   </component>
@@ -226,7 +216,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_539_MoveZeroes_easy" />
+              <option name="myItemId" value="Test_491_PalindromeNumber_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,7 +234,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_433_NumberOfIslands_easy" />
+              <option name="myItemId" value="Test_373_PartitionArrayByOddAndEven_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -262,48 +252,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_227_MockHanoiTowerByStacks_easy" />
+              <option name="myItemId" value="Test_142_CheckPowerOf2_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LintCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LintCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test_166_NthToLastNodeInList_easy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LintCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LintCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test_166_NthToLastNodeInList_easy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NthToLastNodeInList.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -315,55 +265,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../WanXiYou" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Java\workspace\LintCode\src\Test_133_LongestWords_easy" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Java\workspace\LintCode\src" />
       <recent name="E:\Java\workspace\LintCode\src\Test_066_BinaryTreePreOrderTraversal_Easy" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\workspace\LintCode\src\Test_491_PalindromeNumber_easy" />
+      <recent name="E:\Java\workspace\LintCode\src\Test_133_LongestWords_easy" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.NumberOfIslands">
-    <configuration default="false" name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Test_080_Median_easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Test_080_Median_easy.Median" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Test_006_MergeSortedArray_easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Test_006_MergeSortedArray_easy.MergeSortedArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.PartitionArrayByOddAndEven">
     <configuration default="false" name="MergeSortedArray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -412,6 +323,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Test_433_NumberOfIslands_easy.NumberOfIslands" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CheckPowerOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test_142_CheckPowerOf2_easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test_142_CheckPowerOf2_easy.CheckPowerOf2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PartitionArrayByOddAndEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test_373_PartitionArrayByOddAndEven_easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test_373_PartitionArrayByOddAndEven_easy.PartitionArrayByOddAndEven" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -629,24 +580,27 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Median" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MergeSortedArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MergeSortedArray (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MinimumPathSum" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NumberOfIslands" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MergeSortedArray (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MinimumPathSum" />
+      <item index="2" class="java.lang.String" itemvalue="Application.NumberOfIslands" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CheckPowerOf2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PartitionArrayByOddAndEven" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NumberOfIslands" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MergeSortedArray (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MinimumPathSum" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Median" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MergeSortedArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PartitionArrayByOddAndEven" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CheckPowerOf2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NumberOfIslands" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MergeSortedArray (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MinimumPathSum" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -680,13 +634,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3470716" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3470716" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23720682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23667377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -756,7 +710,7 @@
           <option name="timeStamp" value="114" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="269" />
+      <option name="time" value="273" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -765,34 +719,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../jdk/src.zip!/java/math/BigInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5279">
-          <caret line="122" column="13" lean-forward="false" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_372_DeleteNode_easy/DeleteNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_420_CountAndSay_easy/CountAndSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -933,13 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_397_LongestIncreasingContinuousSubSequence_easy/LongestIncreasingContinuousSubSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_627_LongestPalindrome_easy/LongestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -1019,16 +938,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_156_MergeIntervals_easy/MergeIntervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_080_Median_easy/Median.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1041,14 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_185_MatrixZigzagTraversal_easy/MatrixZigzagTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1142,9 +1043,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_433_NumberOfIslands_easy/NumberOfIslands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="203">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_003_DigitCount_medium/DigitCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_185_MatrixZigzagTraversal_easy/MatrixZigzagTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_156_MergeIntervals_easy/MergeIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_397_LongestIncreasingContinuousSubSequence_easy/LongestIncreasingContinuousSubSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_373_PartitionArrayByOddAndEven_easy/PartitionArrayByOddAndEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_491_PalindromeNumber_easy/PalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
