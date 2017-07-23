@@ -37,6 +37,8 @@
 
 * [45. MaximumSubarrayDifference (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.md)
 
+* [50. Product of Array Exclude Itself (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.md)
+
 * [46. Majority Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_046_MajorityNumber_easy/MajorityNumber.md)
 
 * [55. CompareStrings (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md)
@@ -63,9 +65,13 @@
 
 * [100. Remove Duplicates from Sorted Arrays (Easy) ](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicates.md)
 
+* [101. Remove Duplicates from Sorted Array II (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.md)
+
 * [110. Minimum Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_110_MinimumPathSum_easy/MinimumPathSum.md)
 
 * [111. Climbing Stairs (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_111_ClimbingStairs_easy/ClimbingStairs.md)
+
+* [112. Remove Duplicates from Sorted List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.md)
 
 * [128. Hash Function (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_128_HashFunction_easy/HashFunction.md)
 
@@ -104,6 +110,8 @@
 * [376. Binary Tree Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md)
 
 * [397. Longest Increasing Continuous Subsequence (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_397_LongestIncreasingContinuousSubSequence_easy/LongestIncreasingContinuousSubsequence.md)
+
+* [407. Plus One (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_407_PlusOne_easy/PlusOne.md)
 
 * [408. Add Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_408_AddBinary_easy/AddBinary.md)
 

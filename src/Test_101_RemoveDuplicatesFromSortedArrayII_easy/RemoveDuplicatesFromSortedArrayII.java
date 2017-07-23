@@ -1,6 +1,6 @@
 package Test_101_RemoveDuplicatesFromSortedArrayII_easy;
 
-        import java.util.LinkedHashMap;
+import java.util.LinkedHashMap;
 
 /**
  * Created by zmt on 2017/7/23.
