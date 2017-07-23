@@ -1,3 +1,8 @@
+## LintCode
+### 50. <a href="http://www.lintcode.com/en/problem/product-of-array-exclude-itself/"> Product of Array Exclude Itself (Easy) </a>
+
+```java
+
 package Test_050_ProductOfArrayExcludeItself_easy;
 
 import java.util.ArrayList;
@@ -41,3 +46,5 @@ public class ProductOfArrayExcludeItself {
         return list;
     }
 }
+
+```

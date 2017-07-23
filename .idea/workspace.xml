@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_407_PlusOne_easy/PlusOne.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_100_RemoveDuplicates_easy/RemoveDuplicates.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_100_RemoveDuplicates_easy/RemoveDuplicates.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_096_PartitionList_easy/PartitionList.java" afterPath="$PROJECT_DIR$/src/Test_096_PartitionList_easy/PartitionList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.java" afterPath="$PROJECT_DIR$/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicatesFromSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md" afterPath="$PROJECT_DIR$/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicates.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java" afterPath="$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.java" afterPath="$PROJECT_DIR$/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,18 +22,8 @@
       <file leaf-file-name="PlusOne.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_407_PlusOne_easy/PlusOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveDuplicatesFromSortedList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -50,11 +32,9 @@
       <file leaf-file-name="ProductOfArrayExcludeItself.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="352">
+              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,8 +42,18 @@
       <file leaf-file-name="RemoveDuplicatesFromSortedArrayII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="314">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesFromSortedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -152,11 +142,11 @@
         <option value="$PROJECT_DIR$/src/Test_407_PlusOne_easy/PlusOne.java" />
         <option value="$PROJECT_DIR$/src/Test_096_PartitionList_easy/PartitionList.java" />
         <option value="$PROJECT_DIR$/src/Test_50_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java" />
-        <option value="$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java" />
         <option value="$PROJECT_DIR$/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.java" />
         <option value="$PROJECT_DIR$/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicatesFromSortedArray.java" />
         <option value="$PROJECT_DIR$/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.java" />
+        <option value="$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java" />
+        <option value="$PROJECT_DIR$/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.java" />
       </list>
     </option>
   </component>
@@ -298,6 +288,7 @@
       <recent name="E:\Java\workspace\LintCode\src\Test_066_BinaryTreePreOrderTraversal_Easy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\workspace\LintCode\src\Test_050_ProductOfArrayExcludeItself_easy" />
       <recent name="E:\Java\workspace\LintCode\src\Test_491_PalindromeNumber_easy" />
       <recent name="E:\Java\workspace\LintCode\src\Test_133_LongestWords_easy" />
     </key>
@@ -747,13 +738,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test_128_HashFunction_easy/HashFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_173_InsertionSortList_easy/InsertionSortList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -1106,32 +1090,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_407_PlusOne_easy/PlusOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_096_PartitionList_easy/PartitionList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -1142,10 +1100,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_407_PlusOne_easy/PlusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="266">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding />
         </state>
       </provider>

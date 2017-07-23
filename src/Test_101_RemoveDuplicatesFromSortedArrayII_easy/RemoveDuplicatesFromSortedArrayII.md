@@ -1,6 +1,11 @@
+## LintCode
+### 101. <a href="http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-array-ii/"> Remove Duplicates from Sorted Array II (Easy) </a>
+
+```java
+
 package Test_101_RemoveDuplicatesFromSortedArrayII_easy;
 
-        import java.util.LinkedHashMap;
+import java.util.LinkedHashMap;
 
 /**
  * Created by zmt on 2017/7/23.
@@ -40,3 +45,5 @@ public class RemoveDuplicatesFromSortedArrayII {
         return nums.length - length;
     }
 }
+
+```
