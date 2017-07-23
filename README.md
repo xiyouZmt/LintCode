@@ -61,7 +61,7 @@
 
 * [97. Maximum Depth of Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_097_MaximumDepthOfBinaryTree_easy/MaximumDepthOfBinaryTree.md)
 
-* [100. Remeve Duplicates from Sorted Arrays (Easy) ](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md)
+* [100. Remove Duplicates from Sorted Arrays (Easy) ](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicates.md)
 
 * [110. Minimum Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_110_MinimumPathSum_easy/MinimumPathSum.md)
 

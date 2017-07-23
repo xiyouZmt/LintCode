@@ -1,4 +1,9 @@
-package Test_100_RemoveDuplicates_easy;
+## LintCode
+### 100. <a href="http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-array/"> Remeve Duplicates from Sorted Arrays (Easy) </a>
+
+```java
+
+package Test_100_RemoveDuplicatesFromSortedArray_easy;
 
 /**
  * Created by zmt on 2017/6/11.
@@ -34,3 +39,5 @@ public class RemoveDuplicates {
         return nums.length - length;
     }
 }
+
+```

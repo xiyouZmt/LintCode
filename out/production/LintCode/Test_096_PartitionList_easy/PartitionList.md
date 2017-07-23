@@ -1,8 +1,9 @@
-package Test_096_PartitionList_easy;
+## LintCode
+### 96. <a href="http://lintcode.com/en/problem/partition-list/"> Partition List (Easy) </a>
 
-import javax.jnlp.IntegrationService;
-import java.util.ArrayList;
-import java.util.List;
+```java
+
+package Test_096_PartitionList_easy;
 
 /**
  * Created by zmt on 2017/7/22.
@@ -47,3 +48,5 @@ class ListNode {
         this.next = null;
     }
 }
+
+```

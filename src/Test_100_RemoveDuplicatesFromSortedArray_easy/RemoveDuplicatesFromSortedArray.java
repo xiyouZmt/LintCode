@@ -1,19 +1,14 @@
-## LintCode
-### 100. <a href="http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-array/"> Remeve Duplicates from Sorted Arrays (Easy) </a>
-
-```java
-
-package Test_100_RemoveDuplicates_easy;
+package Test_100_RemoveDuplicatesFromSortedArray_easy;
 
 /**
  * Created by zmt on 2017/6/11.
  */
-public class RemoveDuplicates {
+public class RemoveDuplicatesFromSortedArray {
     public static void main(String [] args){
         int nums [] = {0,1,2,3,3,3,4,5,5,6};
         System.out.println("length:" + removeDuplicates(nums));
-        for (int i = 0; i < nums.length; i++) {
-            System.out.println(nums[i]);
+        for (int num : nums) {
+            System.out.println(num);
         }
     }
 
@@ -33,11 +28,9 @@ public class RemoveDuplicates {
                 pre++;
             }
         }
-        for (int i = pre + 1; i < nums.length; i++) {
-            nums[i] = 0;
-        }
+//        for (int i = pre + 1; i < nums.length; i++) {
+//            nums[i] = 0;
+//        }
         return nums.length - length;
     }
 }
-
-```
