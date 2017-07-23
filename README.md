@@ -41,6 +41,8 @@
 
 * [46. Majority Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_046_MajorityNumber_easy/MajorityNumber.md)
 
+* [53. Reverse Words in a String (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_053_ReverseWordsInString_easy/ReverseWordsInString.md)
+
 * [55. CompareStrings (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md)
 
 * [64. Merge Sorted Array (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_064_MergeSortedArray_easy/MergeSortedArray.md)
@@ -87,7 +89,11 @@
 
 * [166. Nth to Last Node in List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.md)
 
+* [172. Remove Element (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_172_RemoveElement_easy/RemoveElement.md)
+
 * [173. Insertion Sort List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md)
+
+* [174. Remove Nth Node From End of List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_174_RemoveNthNodeFromEndOfList_easy/RemoveNthNodeFromEndOfList.md)
 
 * [175. Invert Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.md)
 
@@ -112,6 +118,8 @@
 * [397. Longest Increasing Continuous Subsequence (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_397_LongestIncreasingContinuousSubSequence_easy/LongestIncreasingContinuousSubsequence.md)
 
 * [407. Plus One (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_407_PlusOne_easy/PlusOne.md)
+
+* [413. Reverse Integer (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_413_ReverseInteger_easy/ReverseInteger.md)
 
 * [408. Add Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_408_AddBinary_easy/AddBinary.md)
 
