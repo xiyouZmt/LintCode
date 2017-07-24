@@ -45,6 +45,8 @@
 
 * [55. CompareStrings (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md)
 
+* [60. Search Insert Position (Easy)]()
+
 * [64. Merge Sorted Array (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_064_MergeSortedArray_easy/MergeSortedArray.md)
 
 * [66. Binary Tree Preorder Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_066_BinaryTreePreorderTraversal_Easy/BinaryTreePreOrderTraversal.md)
@@ -56,6 +58,8 @@
 * [69. Binary Tree LevelOrder (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_069_BinaryTreeLevelOrder_easy/BinaryTreeLevelOrder.md)
 
 * [80. Median (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_080_Median_easy/Median.md)
+
+* [82. Single Number (Easy)]()
 
 * [85. Insert Node in a Binary Search Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.md)
 
@@ -105,6 +109,8 @@
 
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
 
+* [212. SpaceReplacement (Easy)]()
+
 * [227. Mock Hanoi Tower by Stacks (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_227_MockHanoiTowerByStacks_easy/Tower.md)
 
 * [365. Count 1 in Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_365_Count1InBinary_easy/Count1InBinary.md)
@@ -134,6 +140,8 @@
 * [453. Flatten Binary Tree to Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md)
 
 * [457. Classical Binary Search (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.md)
+
+* [464. Sort Integers II (Easy)]()
 
 * [469. Identical Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.md)
 

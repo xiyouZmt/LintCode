@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_060_SearchInsertPosition_easy/SearchInsertPosition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_082_SingleNumber_easy/SingleNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_212_SpaceReplacement_easy/SpaceReplacement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_464_SortIntegersII_easy/SortIntegersII.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_100_RemoveDuplicates_easy/RemoveDuplicates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_100_RemoveDuplicates_easy/RemoveDuplicates.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.java" afterPath="$PROJECT_DIR$/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +28,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClassicalBinarySearch.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.java">
+      <file leaf-file-name="SearchInsertPosition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_060_SearchInsertPosition_easy/SearchInsertPosition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="380">
+              <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_082_SingleNumber_easy/SingleNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortIntegersII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_464_SortIntegersII_easy/SortIntegersII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpaceReplacement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_212_SpaceReplacement_easy/SpaceReplacement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -66,10 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/Test_173_InsertionSortList_easy/InsertionSortList.java" />
-        <option value="$PROJECT_DIR$/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.java" />
         <option value="$PROJECT_DIR$/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Test_524_LeftPad_easy/LeftPad.java" />
         <option value="$PROJECT_DIR$/src/Test_547_IntersectionOfTwoArrays_easy/IntersectionOfTwoArrays.java" />
@@ -117,6 +152,10 @@
         <option value="$PROJECT_DIR$/src/Test_053_ReverseWordsInString_easy/ReverseWordsInString.java" />
         <option value="$PROJECT_DIR$/src/Test_174_RemoveNthNodeFromEndOfList_easy/RemoveNthNodeFromEndOfList.java" />
         <option value="$PROJECT_DIR$/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/Test_464_SortIntegersII_easy/SortIntegersII.java" />
+        <option value="$PROJECT_DIR$/src/Test_082_SingleNumber_easy/SingleNumber.java" />
+        <option value="$PROJECT_DIR$/src/Test_212_SpaceReplacement_easy/SpaceReplacement.java" />
+        <option value="$PROJECT_DIR$/src/Test_060_SearchInsertPosition_easy/SearchInsertPosition.java" />
       </list>
     </option>
   </component>
@@ -186,7 +225,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_457_ClassicalBinarySearch_easy" />
+              <option name="myItemId" value="Test_464_SortIntegersII_easy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_212_SpaceReplacement_easy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_082_SingleNumber_easy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_060_SearchInsertPosition_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -209,67 +302,7 @@
       <recent name="E:\Java\workspace\LintCode\src\Test_133_LongestWords_easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesFromSortedArrayII">
-    <configuration default="false" name="PartitionArrayByOddAndEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Test_373_PartitionArrayByOddAndEven_easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Test_373_PartitionArrayByOddAndEven_easy.PartitionArrayByOddAndEven" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Test_407_PlusOne_easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Test_407_PlusOne_easy.PlusOne" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ProductOfArrayExcludeItself" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Test_050_ProductOfArrayExcludeItself_easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Test_050_ProductOfArrayExcludeItself_easy.ProductOfArrayExcludeItself" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SearchInsertPosition">
     <configuration default="false" name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -298,6 +331,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Test_101_RemoveDuplicatesFromSortedArrayII_easy.RemoveDuplicatesFromSortedArrayII" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClassicalBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test_457_ClassicalBinarySearch_easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test_457_ClassicalBinarySearch_easy.ClassicalBinarySearch" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpaceReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test_212_SpaceReplacement_easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test_212_SpaceReplacement_easy.SpaceReplacement" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test_060_SearchInsertPosition_easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test_060_SearchInsertPosition_easy.SearchInsertPosition" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -515,19 +608,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PartitionArrayByOddAndEven" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PlusOne" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ProductOfArrayExcludeItself" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArrayII" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArrayII" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ClassicalBinarySearch" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SpaceReplacement" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SearchInsertPosition" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArrayII" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ProductOfArrayExcludeItself" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PlusOne" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PartitionArrayByOddAndEven" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SearchInsertPosition" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SpaceReplacement" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ClassicalBinarySearch" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArrayII" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +662,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30477223" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45878524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -654,34 +747,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_524_LeftPad_easy/LeftPad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_397_LongestIncreasingContinuousSubSequence_easy/LongestIncreasingContinuousSubsequence.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="147" lean-forward="true" selection-start-line="1" selection-start-column="147" selection-end-line="1" selection-end-column="147" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_627_LongestPalindrome_easy/LongestPalindrome.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1040,8 +1105,8 @@
         <state relative-caret-position="323">
           <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="false" />
+            <element signature="e#208#209#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1051,17 +1116,49 @@
         <state relative-caret-position="114">
           <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#216#217#0" expanded="false" />
+            <element signature="e#284#285#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="171">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_060_SearchInsertPosition_easy/SearchInsertPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_464_SortIntegersII_easy/SortIntegersII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_212_SpaceReplacement_easy/SpaceReplacement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_082_SingleNumber_easy/SingleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>

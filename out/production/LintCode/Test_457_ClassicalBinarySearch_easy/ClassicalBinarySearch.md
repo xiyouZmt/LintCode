@@ -1,6 +1,9 @@
-package Test_457_ClassicalBinarySearch_easy;
+## LintCode
+### 457. <a href="http://www.lintcode.com/en/problem/classical-binary-search/"> Classical Binary Search (Easy) </a>
 
-import java.util.*;
+```java
+
+package Test_457_ClassicalBinarySearch_easy;
 
 /**
  * Created by zmt on 2017/7/24.
@@ -19,10 +22,6 @@ public class ClassicalBinarySearch {
         int start = 0;
         int end = nums.length - 1;
         int mid = (start + end) / 2;
-
-        Map<Integer, Integer> map = new HashMap<>();
-        Iterator<Integer> iterator =  map.keySet().iterator();
-
         while (start <= end){
             if (nums[mid] == target){
                 return mid;
@@ -37,3 +36,5 @@ public class ClassicalBinarySearch {
         return -1;
     }
 }
+
+```
