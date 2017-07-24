@@ -45,7 +45,7 @@
 
 * [55. CompareStrings (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md)
 
-* [60. Search Insert Position (Easy)]()
+* [60. Search Insert Position (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_060_SearchInsertPosition_easy/SearchInsertPosition.md)
 
 * [64. Merge Sorted Array (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_064_MergeSortedArray_easy/MergeSortedArray.md)
 
@@ -59,7 +59,7 @@
 
 * [80. Median (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_080_Median_easy/Median.md)
 
-* [82. Single Number (Easy)]()
+* [82. Single Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_082_SingleNumber_easy/SingleNumber.md)
 
 * [85. Insert Node in a Binary Search Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.md)
 
@@ -109,7 +109,7 @@
 
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
 
-* [212. SpaceReplacement (Easy)]()
+* [212. SpaceReplacement (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_212_SpaceReplacement_easy/SpaceReplacement.md)
 
 * [227. Mock Hanoi Tower by Stacks (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_227_MockHanoiTowerByStacks_easy/Tower.md)
 
@@ -141,7 +141,7 @@
 
 * [457. Classical Binary Search (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.md)
 
-* [464. Sort Integers II (Easy)]()
+* [464. Sort Integers II (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_464_SortIntegersII_easy/SortIntegersII.md)
 
 * [469. Identical Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.md)
 
