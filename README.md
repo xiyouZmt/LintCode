@@ -143,6 +143,8 @@
 
 * [445. Cosine Similarity (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_445_CosineSimilarity_easy/CosineSimilarity.md)
 
+* [451. Swap Nodes in Pairs (Easy)]()
+
 * [453. Flatten Binary Tree to Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md)
 
 * [457. Classical Binary Search (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.md)
