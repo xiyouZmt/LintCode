@@ -83,9 +83,9 @@
 
 * [133. Longest Words (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_133_LongestWords_easy/LongestWords.md)
 
-* [138. Subarray Sum (Easy)]()
+* [138. Subarray Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_138_SubarraySum_easy/SubArraySum.md)
 
-* [141. Sqrt(x) (Easy)]()
+* [141. Sqrt(x) (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_141_SqrtX_easy/SqrtX.md)
 
 * [142. O(1) Check Power of 2 (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.md)
 
@@ -167,11 +167,11 @@
 
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
 
-* [638. Strings Homomorphism (Easy)]()
+* [638. Strings Homomorphism (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_638_StringsHomomorphism_easy/StringsHomomorphism.md)
 
 * [646. First Position Unique Character (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md)
 
-* [647. Substring Anagrams (Easy)]()
+* [647. Substring Anagrams (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_647_SubstringAnagrams_easy/SubstringAnagrams.md)
 
 * [655. Big Integer Addition (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_655_BigIntegerAddition_easy/BigIntegerAddition.md)
 
