@@ -117,7 +117,7 @@
 
 * [227. Mock Hanoi Tower by Stacks (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_227_MockHanoiTowerByStacks_easy/Tower.md)
 
-* [245. SubTree (Easy)]()
+* [245. SubTree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_245_SubTree_easy/SubTree.md)
 
 * [365. Count 1 in Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_365_Count1InBinary_easy/Count1InBinary.md)
 
