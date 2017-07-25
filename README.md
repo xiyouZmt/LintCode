@@ -83,6 +83,10 @@
 
 * [133. Longest Words (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_133_LongestWords_easy/LongestWords.md)
 
+* [138. Subarray Sum (Easy)]()
+
+* [141. Sqrt(x) (Easy)]()
+
 * [142. O(1) Check Power of 2 (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.md)
 
 * [155. Minimum Depth of Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.md)
@@ -163,7 +167,11 @@
 
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
 
+* [638. Strings Homomorphism (Easy)]()
+
 * [646. First Position Unique Character (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md)
+
+* [647. Substring Anagrams (Easy)]()
 
 * [655. Big Integer Addition (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_655_BigIntegerAddition_easy/BigIntegerAddition.md)
 

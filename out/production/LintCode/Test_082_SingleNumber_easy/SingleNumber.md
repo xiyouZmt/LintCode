@@ -1,3 +1,8 @@
+## LintCode
+### 82. <a href="http://www.lintcode.com/en/problem/single-number/"> Single Number (Easy) </a>
+
+```java
+
 package Test_082_SingleNumber_easy;
 
 import java.util.HashMap;
@@ -21,14 +26,16 @@ public class SingleNumber {
             return 0;
         }
         Map<Integer, Integer> map = new HashMap<>();
-        for (int a : A) {
-            if (map.containsKey(a)) {
-                map.remove(a);
+        for(int i = 0; i < A.length; i++){
+            if(map.containsKey(A[i])){
+                map.remove(A[i]);
             } else {
-                map.put(a, 1);
+                map.put(A[i], 1);
             }
         }
         Iterator<Integer> iterator = map.keySet().iterator();
         return iterator.next();
     }
 }
+
+```
