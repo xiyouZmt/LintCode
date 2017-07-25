@@ -1,5 +1,5 @@
 ## LintCode
-###　138. <a href="http://www.lintcode.com/en/problem/subarray-sum/"> Subarray Sum (Easy) </a>
+### 138. <a href="http://www.lintcode.com/en/problem/subarray-sum/"> Subarray Sum (Easy) </a>
 
 ```java
 

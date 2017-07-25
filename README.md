@@ -117,6 +117,8 @@
 
 * [227. Mock Hanoi Tower by Stacks (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_227_MockHanoiTowerByStacks_easy/Tower.md)
 
+* [245. SubTree (Easy)]()
+
 * [365. Count 1 in Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_365_Count1InBinary_easy/Count1InBinary.md)
 
 * [372. Delete Node in the Middle of Singly Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_372_DeleteNode_easy/DeleteNode.md)
