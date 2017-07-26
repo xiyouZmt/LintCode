@@ -97,6 +97,8 @@
 
 * [156. Merge Intervals (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_156_MergeIntervals_easy/MergeIntervals.md)
 
+* [157. Unique Characters (Easy)]()
+
 * [158. Two Strings Are Anagrams (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_158_TwoStringsAreAnagrams_easy/TwoStringsAreAnagrams.md)
 
 * [165. Merge Two Sorted Lists (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md)
@@ -166,6 +168,8 @@
 * [491. Palindrome Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_491_PalindromeNumber_easy/PalindromeNumber.md)
 
 * [496. Toy Factory (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_496_ToyFactory_easy/ToyFactory.md)
+
+* [517. Ugly Number (Easy)]()
 
 * [524. Left Pad (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_524_LeftPad_easy/LeftPad.mdhttps://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
 
