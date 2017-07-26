@@ -45,6 +45,8 @@
 
 * [55. CompareStrings (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md)
 
+* [56. Two Sum (Easy)]()
+
 * [60. Search Insert Position (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_060_SearchInsertPosition_easy/SearchInsertPosition.md)
 
 * [64. Merge Sorted Array (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_064_MergeSortedArray_easy/MergeSortedArray.md)

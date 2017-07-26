@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_158_TwoStringsAreAnagrams_easy/TwoStringsAreAnagrams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_109_Triangle_easy/Triangle.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_109_Triangle_easy/Triangle.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_055_CompareStrings_easy/CompareStrings.java" afterPath="$PROJECT_DIR$/src/Test_055_CompareStrings_easy/CompareStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_109_Triangle_easy/Triangle.java" afterPath="$PROJECT_DIR$/src/Test_109_Triangle_easy/Triangle.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,9 +24,21 @@
       <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_109_Triangle_easy/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="172">
+              <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoStringsAreAnagrams.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TwoStringsAreAnagrams.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_158_TwoStringsAreAnagrams_easy/TwoStringsAreAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="589">
+              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
               <folding>
                 <element signature="e#167#168#0" expanded="true" />
                 <element signature="e#226#227#0" expanded="true" />
@@ -106,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_030_InsertInterval_easy/InsertInterval.java" />
         <option value="$PROJECT_DIR$/src/Test_005_KthLargestElement_medium/KthLargestElement.md" />
         <option value="$PROJECT_DIR$/src/Test_030_InsertInterval_easy/InsertInterval.md" />
         <option value="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java" />
@@ -150,13 +162,14 @@
         <option value="$PROJECT_DIR$/src/Test_245_SubTree_easy/SubTree.java" />
         <option value="$PROJECT_DIR$/src/Test_451_SwapNodesInPairs_easy/SwapNodesInPairs.java" />
         <option value="$PROJECT_DIR$/src/Test_627_LongestPalindrome_easy/LongestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/Test_109_Triangle_easy/Triangle.java" />
         <option value="$PROJECT_DIR$/src/Test_496_ToyFactory_easy/Toy.java" />
         <option value="$PROJECT_DIR$/src/Test_496_ToyFactory_easy/ToyFactory.java" />
         <option value="$PROJECT_DIR$/src/Test_158_easy/String.java" />
         <option value="$PROJECT_DIR$/src/Test_158_TwoStringsAreAnagrams_easy/String.java" />
         <option value="$PROJECT_DIR$/src/Test_647_SubstringAnagrams_easy/SubstringAnagrams.java" />
         <option value="$PROJECT_DIR$/src/Test_158_TwoStringsAreAnagrams_easy/TwoStringsAreAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/Test_109_Triangle_easy/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java" />
       </list>
     </option>
   </component>
@@ -319,6 +332,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_056_TwoSum_easy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -339,27 +370,7 @@
       <recent name="E:\Java\workspace\LintCode\src\Test_133_LongestWords_easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoStringsAreAnagrams">
-    <configuration default="false" name="SubstringAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Test_647_SubstringAnagrams_easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Test_647_SubstringAnagrams_easy.SubstringAnagrams" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TwoSum">
     <configuration default="false" name="SubTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -428,6 +439,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Test_158_TwoStringsAreAnagrams_easy.TwoStringsAreAnagrams" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test_056_TwoSum_easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test_056_TwoSum_easy.TwoSum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -645,19 +676,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SubstringAnagrams" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SubTree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Triangle" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ToyFactory" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TwoStringsAreAnagrams" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SubTree" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Triangle" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ToyFactory" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TwoStringsAreAnagrams" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TwoSum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TwoStringsAreAnagrams" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ToyFactory" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Triangle" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SubTree" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SubstringAnagrams" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TwoSum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Triangle" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TwoStringsAreAnagrams" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ToyFactory" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SubTree" />
       </list>
     </recent_temporary>
   </component>
@@ -699,7 +730,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18872017" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2527115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -790,14 +821,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test_080_Median_easy/Median.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_097_MaximumDepthOfBinaryTree_easy/MaximumDepthOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1156,14 +1179,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_109_Triangle_easy/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_647_SubstringAnagrams_easy/SubstringAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1189,11 +1204,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_158_TwoStringsAreAnagrams_easy/TwoStringsAreAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="589">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
           <folding>
             <element signature="e#167#168#0" expanded="true" />
             <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_109_Triangle_easy/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

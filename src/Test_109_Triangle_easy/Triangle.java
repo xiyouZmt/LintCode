@@ -1,12 +1,16 @@
 package Test_109_Triangle_easy;
 
+import java.util.HashMap;
+
 /**
  * Created by zmt on 2017/7/26.
  */
 public class Triangle {
     public static void main(String [] args){
-        int [][] triangle = {{10}};
-        System.out.println(minimumTotal(triangle));
+//        int [][] triangle = {{10}};
+//        System.out.println(minimumTotal(triangle));
+        HashMap<Integer, Integer> map = new HashMap<>();
+        System.out.println(map.get(2));
     }
     public static int minimumTotal(int[][] triangle) {
         // write your code here
