@@ -73,7 +73,7 @@
 
 * [101. Remove Duplicates from Sorted Array II (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.md)
 
-* [109. Triangle (Easy)]()
+* [109. Triangle (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_109_Triangle_easy/Triangle.md)
 
 * [110. Minimum Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_110_MinimumPathSum_easy/MinimumPathSum.md)
 
@@ -161,7 +161,7 @@
 
 * [491. Palindrome Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_491_PalindromeNumber_easy/PalindromeNumber.md)
 
-* [496. Toy Factory (Easy)]()
+* [496. Toy Factory (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_496_ToyFactory_easy/ToyFactory.md)
 
 * [524. Left Pad (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_524_LeftPad_easy/LeftPad.mdhttps://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
 
