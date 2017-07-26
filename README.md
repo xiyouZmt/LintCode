@@ -83,6 +83,10 @@
 
 * [112. Remove Duplicates from Sorted List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.md)
 
+* [114. Unique Paths (Easy)]()
+
+* [115. Unique Paths II (Easy)]()
+
 * [128. Hash Function (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_128_HashFunction_easy/HashFunction.md)
 
 * [133. Longest Words (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_133_LongestWords_easy/LongestWords.md)

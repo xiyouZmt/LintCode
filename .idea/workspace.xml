@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_157_UniqueCharacters_easy/UniqueCharacters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_517_UglyNumber_easy/UglyNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_114_UniquePaths_easy/UniquePaths.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_115_UniquePathsII_easy/UniquePathsII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_157_UniqueCharacters_easy/UniqueCharacters.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_157_UniqueCharacters_easy/UniqueCharacters.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,28 +21,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UglyNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_517_UglyNumber_easy/UglyNumber.java">
+      <file leaf-file-name="UniquePaths.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_114_UniquePaths_easy/UniquePaths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="209">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UniqueCharacters.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test_157_UniqueCharacters_easy/UniqueCharacters.java">
+      <file leaf-file-name="UniquePathsII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_115_UniquePathsII_easy/UniquePathsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/Test_156_MergeIntervals_easy/MergeIntervals.java" />
         <option value="$PROJECT_DIR$/src/Test_080_Median_easy/Median.java" />
         <option value="$PROJECT_DIR$/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.java" />
@@ -135,6 +131,8 @@
         <option value="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/Test_517_UglyNumber_easy/UglyNumber.java" />
         <option value="$PROJECT_DIR$/src/Test_157_UniqueCharacters_easy/UniqueCharacters.java" />
+        <option value="$PROJECT_DIR$/src/Test_114_UniquePaths_easy/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/Test_115_UniquePathsII_easy/UniquePathsII.java" />
       </list>
     </option>
   </component>
@@ -203,7 +201,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_517_UglyNumber_easy" />
+              <option name="myItemId" value="Test_115_UniquePathsII_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,7 +219,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_157_UniqueCharacters_easy" />
+              <option name="myItemId" value="Test_114_UniquePaths_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,7 +243,7 @@
       <recent name="E:\Java\workspace\LintCode\src\Test_133_LongestWords_easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UniqueCharacters">
+  <component name="RunManager" selected="Application.UniquePaths">
     <configuration default="false" name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -254,26 +252,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Test_109_Triangle_easy.Triangle" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TwoStringsAreAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Test_158_TwoStringsAreAnagrams_easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Test_158_TwoStringsAreAnagrams_easy.TwoStringsAreAnagrams" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -334,6 +312,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Test_157_UniqueCharacters_easy.UniqueCharacters" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test_114_UniquePaths_easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test_114_UniquePaths_easy.UniquePaths" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -552,18 +550,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Triangle" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TwoStringsAreAnagrams" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TwoSum" />
-      <item index="3" class="java.lang.String" itemvalue="Application.UglyNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Application.UniqueCharacters" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TwoSum" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UglyNumber" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UniqueCharacters" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UniquePaths" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.UniqueCharacters" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UglyNumber" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TwoSum" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Triangle" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TwoStringsAreAnagrams" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UniquePaths" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UniqueCharacters" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UglyNumber" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TwoSum" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -605,7 +603,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2527115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2527115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -696,20 +694,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test_064_MergeSortedArray_easy/MergeSortedArray.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_110_MinimumPathSum_easy/MinimumPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1089,6 +1073,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_157_UniqueCharacters_easy/UniqueCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_517_UglyNumber_easy/UglyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -1100,14 +1095,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_157_UniqueCharacters_easy/UniqueCharacters.java">
+    <entry file="file://$PROJECT_DIR$/src/Test_114_UniquePaths_easy/UniquePaths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="209">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_115_UniquePathsII_easy/UniquePathsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
