@@ -95,6 +95,8 @@
 
 * [156. Merge Intervals (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_156_MergeIntervals_easy/MergeIntervals.md)
 
+* [158. Two Strings Are Anagrams (Easy)]()
+
 * [165. Merge Two Sorted Lists (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md)
 
 * [166. Nth to Last Node in List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.md)

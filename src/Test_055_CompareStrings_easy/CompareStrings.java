@@ -8,7 +8,7 @@ public class CompareStrings {
         System.out.println(compareStrings("ABC", "ABC"));
     }
 
-//    public static boolean compareStrings(String A, String B){
+//    public static boolean compareStrings(TwoStringsAreAnagrams A, TwoStringsAreAnagrams B){
 //        if(A == null && B == null){
 //            return false;
 //        } else if(A == null){
