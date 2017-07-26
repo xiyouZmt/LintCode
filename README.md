@@ -83,9 +83,9 @@
 
 * [112. Remove Duplicates from Sorted List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.md)
 
-* [114. Unique Paths (Easy)]()
+* [114. Unique Paths (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_114_UniquePaths_easy/UniquePaths.md)
 
-* [115. Unique Paths II (Easy)]()
+* [115. Unique Paths II (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_115_UniquePathsII_easy/UniquePathsII.md)
 
 * [128. Hash Function (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_128_HashFunction_easy/HashFunction.md)
 
