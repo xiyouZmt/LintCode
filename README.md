@@ -153,7 +153,7 @@
 
 * [422. Length of Last Word (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
 
-* [423. Valid Parentheses (Easy)]()
+* [423. Valid Parentheses (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_423_ValidParentheses_easy/ValidParentheses.md)
 
 * [433. Number of Islands (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_433_NumberOfIslands_easy/NumberOfIslands.md)
 
