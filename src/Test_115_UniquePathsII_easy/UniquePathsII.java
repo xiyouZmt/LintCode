@@ -12,6 +12,7 @@ public class UniquePathsII {
         };
         System.out.println(uniquePathsWithObstacles(obstacleGrid));
     }
+
     public static int uniquePathsWithObstacles(int[][] obstacleGrid) {
         // write your code here
         if(obstacleGrid == null || obstacleGrid.length == 0){

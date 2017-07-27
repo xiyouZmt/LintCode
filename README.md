@@ -153,6 +153,8 @@
 
 * [422. Length of Last Word (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md)
 
+* [423. Valid Parentheses (Easy)]()
+
 * [433. Number of Islands (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_433_NumberOfIslands_easy/NumberOfIslands.md)
 
 * [445. Cosine Similarity (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_445_CosineSimilarity_easy/CosineSimilarity.md)
