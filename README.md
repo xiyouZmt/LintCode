@@ -171,7 +171,7 @@
 
 * [457. Classical Binary Search (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.md)
 
-* [463. Sorted Integers (Easy)]()
+* [463. Sorted Integers (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_463_SortIntegers_easy/SortIntegers.md)
 
 * [464. Sort Integers II (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_464_SortIntegersII_easy/SortIntegersII.md)
 
