@@ -7,7 +7,7 @@
 
 * [5. Kth Largest Element (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_005_KthLargestElement_medium/KthLargestElement.md)
 
-* [6. Merge Two Sorted Arrays (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_006_MergeSortedArray_easy/MergeTwoSortedArrays.md)
+* [6. Merge Two Sorted Arrays (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_006_MergeSortedArray_easy/MergeSortedArrays.md)
 
 * [7. Binary Tree Serialization (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_007_BinaryTreeSerialization_medium/BinaryTreeSerialization.md)
 
