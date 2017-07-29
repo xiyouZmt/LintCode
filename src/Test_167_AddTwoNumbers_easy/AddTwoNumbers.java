@@ -32,7 +32,6 @@ public class AddTwoNumbers {
                     preNode.next = node;
                     preNode = node;
                 }
-
                 l1Node = l1Node.next;
                 l2Node = l2Node.next;
                 count ++;

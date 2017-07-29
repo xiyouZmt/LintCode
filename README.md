@@ -109,6 +109,8 @@
 
 * [166. Nth to Last Node in List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.md)
 
+* [167. Add Two Numbers (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.md)
+
 * [172. Remove Element (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_172_RemoveElement_easy/RemoveElement.md)
 
 * [173. Insertion Sort List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md)

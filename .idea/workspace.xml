@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CloneBinaryTree.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CloneBinaryTree.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="45" column="40" lean-forward="false" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -76,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_110_MinimumPathSum_easy/MinimumPathSum.java" />
         <option value="$PROJECT_DIR$/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.java" />
         <option value="$PROJECT_DIR$/src/Test_227_MockHanoiTowerByStacks_easy/Tower.java" />
         <option value="$PROJECT_DIR$/src/Test_539_MoveZeroes_easy/MoveZeroes.java" />
@@ -127,6 +136,7 @@
         <option value="$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Test_115_UniquePathsII_easy/UniquePathsII.java" />
         <option value="$PROJECT_DIR$/src/Test_423_ValidParentheses_easy/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.java" />
       </list>
     </option>
   </component>
@@ -197,7 +207,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_375_CloneBinaryTree_easy" />
+              <option name="myItemId" value="Test_167_AddTwoNumbers_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,11 +225,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_375_CloneBinaryTree_easy" />
+              <option name="myItemId" value="Test_167_AddTwoNumbers_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CloneBinaryTree.java" />
+              <option name="myItemId" value="AddTwoNumbers.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -692,13 +702,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test_397_LongestIncreasingContinuousSubSequence_easy/LongestIncreasingContinuousSubSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1051,6 +1054,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="45" column="40" lean-forward="false" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
           <folding />
         </state>
       </provider>
