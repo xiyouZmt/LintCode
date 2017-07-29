@@ -105,7 +105,7 @@
 
 ### 6. 数字运算符相关 (13)
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_001_APlusB_easy/APlusB.md"> 001. A + B 问题  </a>
-#### <a hrer="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_002_TrailingZeros_easy/TrailingZeros.md"> 002. 尾部的零 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_002_TrailingZeros_easy/TrailingZeros.md"> 002. 尾部的零 </a>
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_003_DigitCount_medium/DigitCount.md"> 003. 统计数字 </a>
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.md"> 142. O(1)时间检测2的幂次  </a>
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_181_FlipBits_easy/FlipBits.md"> 181. 将整数A转换为B  </a>
