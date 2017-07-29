@@ -165,6 +165,8 @@
 
 * [451. Swap Nodes in Pairs (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_451_SwapNodesInPairs_easy/SwapNodesInPairs.md)
 
+* [452. Remove Linked List Elements (Easy)]()
+
 * [453. Flatten Binary Tree to Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md)
 
 * [457. Classical Binary Search (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.md)
