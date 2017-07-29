@@ -137,6 +137,8 @@
 
 * [373. Partition Array by Odd and Even (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_373_PartitionArrayByOddAndEven_easy/PartitionArrayByOddAndEven.md)
 
+* [375. Clone Binary Tree (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.md)
+
 * [376. Binary Tree Path Sum (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md)
 
 * [397. Longest Increasing Continuous Subsequence (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_397_LongestIncreasingContinuousSubSequence_easy/LongestIncreasingContinuousSubsequence.md)
