@@ -137,7 +137,7 @@
 
 * [365. Count 1 in Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_365_Count1InBinary_easy/Count1InBinary.md)
 
-* [366. Fibonacci (Easy)]()
+* [366. Fibonacci (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_366_Fibonacci_easy/Fibonacci.md)
 
 * [372. Delete Node in the Middle of Singly Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_372_DeleteNode_easy/DeleteNode.md)
 
