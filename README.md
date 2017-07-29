@@ -195,7 +195,7 @@
 
 * [548. Intersection of Two Arrays II (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_548_IntersectionOfTwoArraysII_easy/IntersectionOfTwoArraysII.md)
 
-* [569. Add Digits (Easy)]()
+* [569. Add Digits (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_569_AddDigits_easy/AddDigits.md)
 
 * [627. Longest Palindrome (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_627_LongestPalindrome_easy/LongestPalindrome.md)	
 
