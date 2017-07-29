@@ -37,9 +37,9 @@
 
 * [45. MaximumSubarrayDifference (Medium)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.md)
 
-* [50. Product of Array Exclude Itself (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.md)
-
 * [46. Majority Number (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_046_MajorityNumber_easy/MajorityNumber.md)
+
+* [50. Product of Array Exclude Itself (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.md)
 
 * [53. Reverse Words in a String (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_053_ReverseWordsInString_easy/ReverseWordsInString.md)
 
