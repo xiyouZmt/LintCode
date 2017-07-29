@@ -195,6 +195,8 @@
 
 * [548. Intersection of Two Arrays II (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_548_IntersectionOfTwoArraysII_easy/IntersectionOfTwoArraysII.md)
 
+* [569. Add Digits (Easy)]()
+
 * [627. Longest Palindrome (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_627_LongestPalindrome_easy/LongestPalindrome.md)	
 
 * [632. Binary Tree Maxnum Node (Naive)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md)
