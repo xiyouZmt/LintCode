@@ -137,6 +137,8 @@
 
 * [365. Count 1 in Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_365_Count1InBinary_easy/Count1InBinary.md)
 
+* [366. Fibonacci (Easy)]()
+
 * [372. Delete Node in the Middle of Singly Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_372_DeleteNode_easy/DeleteNode.md)
 
 * [373. Partition Array by Odd and Even (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_373_PartitionArrayByOddAndEven_easy/PartitionArrayByOddAndEven.md)
