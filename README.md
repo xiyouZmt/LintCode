@@ -125,6 +125,8 @@
 
 * [185. Matrix Zigzag Traversal (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_185_MatrixZigzagTraversal_easy/MatrixZigzagTraversal.md)
 
+* [204. Singleton (Easy)]()
+
 * [211. String Permutation (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md)
 
 * [212. SpaceReplacement (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_212_SpaceReplacement_easy/SpaceReplacement.md)
