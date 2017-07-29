@@ -13,6 +13,8 @@
 
 * [8. Rotate String (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_008_RotateString_easy/RotateString.md)
 
+* [9. Fizz Buzz (Easy)]()
+
 * [13. strStr (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_013_FindString_easy/SearchStr.md)
 
 * [14. FirstPositionOfTarget (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_014_FirstPositionOfTarget_easy/FirstPositionOfTarget.md)
@@ -172,6 +174,8 @@
 * [452. Remove Linked List Elements (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_452_RemoveLinkedListElements_easy/RemoveLinkedListElements.md)
 
 * [453. Flatten Binary Tree to Linked List (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md)
+
+* [454. Rectangle Area (Easy)]()
 
 * [457. Classical Binary Search (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_457_ClassicalBinarySearch_easy/ClassicalBinarySearch.md)
 
