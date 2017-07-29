@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_569_AddDigits_easy/AddDigits.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java" afterPath="$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.md" afterPath="$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,65 +19,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CloneBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.java">
+      <file leaf-file-name="CheckPowerOf2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="285">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CloneBinaryTree.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="64" column="12" lean-forward="true" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveLinkedListElements.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_452_RemoveLinkedListElements_easy/RemoveLinkedListElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortIntegers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_463_SortIntegers_easy/SortIntegers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddDigits.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test_569_AddDigits_easy/AddDigits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -120,8 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_433_NumberOfIslands_easy/NumberOfIslands.java" />
-        <option value="$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java" />
         <option value="$PROJECT_DIR$/src/Test_491_PalindromeNumber_easy/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/Test_373_PartitionArrayByOddAndEven_easy/PartitionArrayByOddAndEven.java" />
         <option value="$PROJECT_DIR$/src/Test_407_PlusOne_easy/PlusOne.java" />
@@ -171,6 +116,8 @@
         <option value="$PROJECT_DIR$/src/Test_452_RemoveLinkedListElements_easy/RemoveLinkedListElements.java" />
         <option value="$PROJECT_DIR$/src/Test_463_SortIntegers_easy/SortIntegers.java" />
         <option value="$PROJECT_DIR$/src/Test_569_AddDigits_easy/AddDigits.java" />
+        <option value="$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java" />
+        <option value="$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.md" />
       </list>
     </option>
   </component>
@@ -341,6 +288,24 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="AddTwoNumbers.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_142_CheckPowerOf2_easy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -812,20 +777,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_407_PlusOne_easy/PlusOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicatesFromSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -936,7 +887,7 @@
         <state relative-caret-position="494">
           <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1131,26 +1082,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/Test_569_AddDigits_easy/AddDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="361">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.md">
+    <entry file="file://$PROJECT_DIR$/src/Test_463_SortIntegers_easy/SortIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="64" column="12" lean-forward="true" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+        <state relative-caret-position="76">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1163,22 +1109,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_463_SortIntegers_easy/SortIntegers.java">
+    <entry file="file://$PROJECT_DIR$/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="703">
+          <caret line="64" column="12" lean-forward="true" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_569_AddDigits_easy/AddDigits.java">
+    <entry file="file://$PROJECT_DIR$/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

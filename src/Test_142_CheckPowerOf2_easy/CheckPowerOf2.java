@@ -12,9 +12,6 @@ public class CheckPowerOf2 {
         if(n <= 0){
             return false;
         }
-        int zero = (int) Math.floor(Math.log((double)n) / Math.log(2.0));
-        int temp = 1 << zero;
-        int result = temp | n;
-        return result == temp;
+        return (n & (n - 1)) == 0;
     }
 }
