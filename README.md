@@ -145,9 +145,9 @@
 
 * [407. Plus One (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_407_PlusOne_easy/PlusOne.md)
 
-* [413. Reverse Integer (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_413_ReverseInteger_easy/ReverseInteger.md)
-
 * [408. Add Binary (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_408_AddBinary_easy/AddBinary.md)
+
+* [413. Reverse Integer (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_413_ReverseInteger_easy/ReverseInteger.md)
 
 * [415. Valid Palindrome (Easy)](https://github.com/xiyouZmt/LintCode/blob/master/src/Test_415_ValidPalindrome_easy/ValidPalindrome.md)
 
