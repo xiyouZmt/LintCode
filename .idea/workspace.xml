@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_009_FizzBuzz_easy/FizzBuzz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test_454_RectangleArea_easy/RectangleArea.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.java" afterPath="$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md" afterPath="$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +19,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RectangleArea.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test_454_RectangleArea_easy/RectangleArea.java">
+      <file leaf-file-name="BalancedBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="404">
+              <caret line="61" column="27" lean-forward="false" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_100_RemoveDuplicates_easy/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.java" />
         <option value="$PROJECT_DIR$/src/Test_050_ProductOfArrayExcludeItself_easy/ProductOfArrayExcludeItself.java" />
         <option value="$PROJECT_DIR$/src/Test_101_RemoveDuplicatesFromSortedArrayII_easy/RemoveDuplicatesFromSortedArrayII.java" />
@@ -109,7 +103,6 @@
         <option value="$PROJECT_DIR$/../../jdk/src.zip!/java/lang/CharacterData.java" />
         <option value="$PROJECT_DIR$/../../jdk/src.zip!/java/lang/CharacterDataLatin1.java" />
         <option value="$PROJECT_DIR$/src/Test_415_ValidPalindrome_easy/ValidPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Test_115_UniquePathsII_easy/UniquePathsII.java" />
         <option value="$PROJECT_DIR$/src/Test_423_ValidParentheses_easy/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.java" />
@@ -123,6 +116,8 @@
         <option value="$PROJECT_DIR$/src/Test_366_Fibonacci_easy/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/Test_009_FizzBuzz_easy/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/Test_454_RectangleArea_easy/RectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md" />
       </list>
     </option>
   </component>
@@ -193,7 +188,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_454_RectangleArea_easy" />
+              <option name="myItemId" value="Test_093_BalancedBinaryTree_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -211,8 +206,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Test_366_Fibonacci_easy" />
+              <option name="myItemId" value="Test_093_BalancedBinaryTree_easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BalancedBinaryTree.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -581,7 +580,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -684,13 +683,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test_174_RemoveNthNodeFromEndOfList_easy/RemoveNthNodeFromEndOfList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_413_ReverseInteger_easy/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -897,13 +889,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_433_NumberOfIslands_easy/NumberOfIslands.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
@@ -1062,12 +1047,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_454_RectangleArea_easy/RectangleArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="456">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding>
             <element signature="e#614#615#0" expanded="true" />
             <element signature="e#651#652#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="61" column="27" lean-forward="false" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
