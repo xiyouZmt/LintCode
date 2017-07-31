@@ -11,20 +11,20 @@ public class BalancedBinaryTree {
 
     }
 
-//    /**
-//     * 二叉树的深度
-//     * @param treeNode
-//     * @return
-//     */
-//    public int treeDepth(TreeNode treeNode){
-//        if(treeNode == null){
-//            return 0;
-//        }
-//        int left = treeDepth(treeNode.left);
-//        int right = treeDepth(treeNode.right);
-//        return  left > right ? left + 1 : right + 1;
-//    }
-//
+    /**
+     * 二叉树的深度
+     * @param treeNode
+     * @return
+     */
+    public int treeDepth(TreeNode treeNode){
+        if(treeNode == null){
+            return 0;
+        }
+        int left = treeDepth(treeNode.left);
+        int right = treeDepth(treeNode.right);
+        return  left > right ? left + 1 : right + 1;
+    }
+
 //    /**
 //     * 判断平衡二叉树 (深度递归)
 //     * @param treeNode
