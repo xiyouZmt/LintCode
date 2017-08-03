@@ -26,6 +26,9 @@ public class StringPermutation {
         if (A == null || B == null) {
             return false;
         }
+        if(A.equals(B)){
+            return true;
+        }
         if (A.length() == B.length()) {
             Map<Character, Integer> map = new HashMap<>();
             for(int i = 0; i < A.length(); i++){
