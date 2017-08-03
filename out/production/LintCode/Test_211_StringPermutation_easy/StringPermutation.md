@@ -1,6 +1,9 @@
 ## LintCode
 ### 211. <a href="http://www.lintcode.com/en/problem/string-permutation/"> String Permutation (Easy) </a>
 
+### 思路1. 两个数组排序后比较是否相等
+### 思路2. hash
+
 ```java
 
 package Test_211_StringPermutation_easy;
