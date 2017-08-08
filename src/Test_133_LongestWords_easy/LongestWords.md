@@ -25,13 +25,14 @@ public class LongestWords {
         if(dictionary == null || dictionary.length == 0){
             return longestWords;
         }
-        String temp = dictionary[0];
+        int maxLength = 0;
         for(String str : dictionary){
-            if(str.length() > temp.length()){
-                longestWords.clear();
-                longestWords.add(str);
-                temp = str;
-            } else if(str.length() == temp.length()){
+            if(str.length() > maxLength){
+                maxLength = str.length();
+            }
+        }
+        for(String str : dictionary){
+            if(str.length() == maxLength){
                 longestWords.add(str);
             }
         }
