@@ -53,7 +53,7 @@ public class ReverseWordsInString {
         String [] words = s.split(" +");
         for (int i = words.length - 1; i >= 0; i--) {
             if(!words[i].equals("")){
-                builder.append(words[i]);
+                builder.append(words[i]).append(" ");
             }
         }
         return builder.toString();
