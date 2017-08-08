@@ -26,19 +26,17 @@ public class TwoStringsAreAnagrams {
             } else if(sLength == 0){
                 return true;
             } else {
-                StringBuilder builder = new StringBuilder(t);
-                int index;
-                for(int i = 0; i < sLength; i++){
-                    if((index = builder.indexOf(s.charAt(i) + "")) >= 0){
-                        builder.deleteCharAt(index);
-                        if(builder.length() == 0 && i == sLength - 1){
-                            return true;
-                        }
-                    } else {
+                int [] count = new int[256];
+                for(int i = 0; i < s.length(); i++){
+                    count[s.charAt(i)]++;
+                }
+                for(int i = 0; i < t.length(); i++){
+                    count[t.charAt(i)]--;
+                    if(count[t.charAt(i)] < 0){
                         return false;
                     }
                 }
-                return false;
+                return true;
             }
         } else {
             return false;
