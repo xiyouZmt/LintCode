@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.java" afterPath="$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md" afterPath="$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,18 +21,38 @@
       <file leaf-file-name="StringPermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_211_StringPermutation_easy/StringPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringPermutation.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringPermutation.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_211_StringPermutation_easy/StringPermutation.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+            <state relative-caret-position="361">
+              <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstPositionUniqueCharacter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstPositionUniqueCharacter.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -83,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_141_SqrtX_easy/SqrtX.java" />
         <option value="$PROJECT_DIR$/src/Test_138_SubarraySum_easy/SubarraySum.java" />
         <option value="$PROJECT_DIR$/src/Test_638_StringsHomomorphism_easy/StringsHomomorphism.java" />
         <option value="$PROJECT_DIR$/src/Test_138_SubarraySum_easy/SubArraySum.java" />
@@ -134,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/Test_211_StringPermutation_easy/StringPermutation.java" />
         <option value="$PROJECT_DIR$/src/Test_211_StringPermutation_easy/StringPermutation.md" />
         <option value="$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.java" />
+        <option value="$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md" />
       </list>
     </option>
   </component>
@@ -696,13 +716,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test_245_SubTree_easy/SubTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_638_StringsHomomorphism_easy/StringsHomomorphism.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
@@ -1047,26 +1060,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_211_StringPermutation_easy/StringPermutation.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_211_StringPermutation_easy/StringPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_211_StringPermutation_easy/StringPermutation.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        <state relative-caret-position="456">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
           <folding />
         </state>
       </provider>

@@ -18,27 +18,6 @@ public class FirstPositionUniqueCharacter {
      * @param s a string
      * @return it's index
      */
-//    public static int firstUniqChar(String s) {
-//        // Write your code here
-//        if(s == null || s.length() == 0){
-//            return -1;
-//        }
-//        char start = s.charAt(0);
-//        int index = 0;
-//        StringBuilder builder = new StringBuilder(s);
-//        for (int i = 1; i < builder.length(); i++) {
-//            if(builder.charAt(i) == start){
-//                if(i == builder.length() - 1){
-//                    return -1;
-//                }
-//                builder.deleteCharAt(i);
-//                start = builder.charAt(++index);
-//                i = index;
-//            }
-//        }
-//        return index;
-//    }
-
     public static int firstUniqChar(String s){
         if(s == null || s.length() == 0){
             return -1;
