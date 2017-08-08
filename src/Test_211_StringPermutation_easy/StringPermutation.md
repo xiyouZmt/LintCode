@@ -3,7 +3,7 @@
 
 ### 思路1. 两个数组排序后比较是否相等
 ### 思路2. hash
-### 思路3. 数组比较(最优解)
+### 思路3. 数组(最优解)
 
 ```java
 
@@ -43,7 +43,7 @@ public class StringPermutation {
             }
             return true;
 
-//            version 2. Hash
+//            Version 2. Hash
 //            Map<Character, Integer> map = new HashMap<>();
 //            for(int i = 0; i < A.length(); i++){
 //                char a = A.charAt(i);
