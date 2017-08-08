@@ -1,66 +1,6 @@
 ## LintCode题解
 
-### 1. 二叉树 (19)
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_007_BinaryTreeSerialization_medium/BinaryTreeSerialization.md"> 007. 二叉树的序列化 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_066_BinaryTreePreorderTraversal_Easy/BinaryTreePreOrderTraversal.md"> 066. 二叉树的前序遍历  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_067_BinaryTreeInorderTraversal_Easy/BinaryTreeInOrderTraversal.md"> 067. 二叉树的中序遍历  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_068_BinaryTreePostorderTraversal_Easy/BinaryTreePostOrderTraversal.md"> 068. 二叉树的后序遍历  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_069_BinaryTreeLevelOrder_easy/BinaryTreeLevelOrder.md"> 069. 二叉树的层次遍历  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.md"> 085. 在二叉查找树中插入节点  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md"> 093. 平衡二叉树  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_097_MaximumDepthOfBinaryTree_easy/MaximumDepthOfBinaryTree.md"> 097. 二叉树的最大深度  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.md"> 155. 二叉树的最小深度  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.md"> 175. 翻转二叉树  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_177_BinarySearchTreeWithMinimalHeight_easy/MinimalHeight.md"> 177. 把排序数组转换为高度最小的二叉搜索树  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_245_SubTree_easy/SubTree.md"> 245. 子树  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.md"> 375. 克隆二叉树  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md"> 376. 二叉树的路径和  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md"> 453. 将二叉树拆成链表  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.md"> 469. 等价二叉树  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.md"> 480. 二叉树的所有路径  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md"> 632. 二叉树的最大节点  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_661_ConvertBSTToGreaterTree_easy/ConvertBSTToGreaterTree.md"> 661. 将BST转换为大树 </a>
-
-
-
-### 2. 字符串 (17)
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_008_RotateString_easy/RotateString.md"> 008. 旋转字符串  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_013_SearchStr_easy/SearchStr.md"> 013. 包含子字符串</a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_053_ReverseWordsInString_easy/ReverseWordsInString.md"> 053. 翻转字符串  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md"> 055. 比较字符串  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_133_LongestWords_easy/LongestWords.md"> 133. 最长单词  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_157_UniqueCharacters_easy/UniqueCharacters.md"> 157. 判断字符串是否没有重复字符  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_158_TwoStringsAreAnagrams_easy/TwoStringsAreAnagrams.md"> 158. 两个字符串是变位词  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md"> 211. 字符串置换  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_212_SpaceReplacement_easy/SpaceReplacement.md"> 212. 空格替换  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_415_ValidPalindrome_easy/ValidPalindrome.md"> 415. 有效的回文 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md"> 422. 最后一个单词的长度 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_423_ValidParentheses_easy/ValidParentheses.md"> 423. 有效括号 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_524_LeftPad_easy/LeftPad.md"> 524. 左填充 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_627_LongestPalindrome_easy/LongestPalindrome.md"> 627. 最长回文串  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_638_StringsHomomorphism_easy/StringsHomomorphism.md"> 638. 字符串同态 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md"> 646. 第一位独特字符 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_647_SubstringAnagrams_easy/SubstringAnagrams.md"> 647. 子字符串字谜 </a>
-
-
-
-### 3. 链表 (12)
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.md"> 035. 翻转链表 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_036_ReverseLinkedList_medium/ReverseLinkedList.md"> 036. 翻转链表II  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_096_PartitionList_easy/PartitionList.md"> 096. 链表划分  </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.md"> 112. 删除排序链表中的重复元素 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md"> 165. 合并两个排序链表 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.md"> 166. 链表倒数第n个节点 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.md"> 167. 链表求和 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md"> 173. 链表插入排序 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_174_RemoveNthNodeFromEndOfList_easy/RemoveNthNodeFromEndOfList.md"> 174. 删除链表中倒数第n个节点 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_372_DeleteNode_easy/DeleteNode.md"> 372. 在O(1)时间复杂度删除链表节点 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_451_SwapNodesInPairs_easy/SwapNodesInPairs.md"> 451. 两两交换链表中的节点 </a>
-#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_452_RemoveLinkedListElements_easy/RemoveLinkedListElements.md"> 452. 删除链表中的元素 </a>
-
-
-
-### 4. 数组 (27)
+### 1. 数组 (27)
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_005_KthLargestElement_medium/KthLargestElement.md"> 005. 第K大的元素  </a>
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_006_MergeSortedArray_easy/MergeSortedArrays.md"> 006. 合并排序数组  </a>
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_014_FirstPositionOfTarget_easy/FirstPositionOfTarget.md"> 014. 二分查找  </a>
@@ -90,6 +30,62 @@
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_548_IntersectionOfTwoArraysII_easy/IntersectionOfTwoArraysII.md"> 548. 两数组的交 II  </a>
 
 
+### 2. 链表 (12)
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.md"> 035. 翻转链表 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_036_ReverseLinkedList_medium/ReverseLinkedList.md"> 036. 翻转链表II  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_096_PartitionList_easy/PartitionList.md"> 096. 链表划分  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_112_RemoveDuplicatesFromSortedList_easy/RemoveDuplicatesFromSortedList.md"> 112. 删除排序链表中的重复元素 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_165_MergeTwoSortedLists_easy/MergeTwoSortedLists.md"> 165. 合并两个排序链表 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_166_NthToLastNodeInList_easy/NthToLastNodeInList.md"> 166. 链表倒数第n个节点 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_167_AddTwoNumbers_easy/AddTwoNumbers.md"> 167. 链表求和 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_173_InsertionSortList_easy/InsertionSortList.md"> 173. 链表插入排序 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_174_RemoveNthNodeFromEndOfList_easy/RemoveNthNodeFromEndOfList.md"> 174. 删除链表中倒数第n个节点 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_372_DeleteNode_easy/DeleteNode.md"> 372. 在O(1)时间复杂度删除链表节点 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_451_SwapNodesInPairs_easy/SwapNodesInPairs.md"> 451. 两两交换链表中的节点 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_452_RemoveLinkedListElements_easy/RemoveLinkedListElements.md"> 452. 删除链表中的元素 </a>
+
+
+### 3. 字符串 (17)
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_008_RotateString_easy/RotateString.md"> 008. 旋转字符串  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_013_SearchStr_easy/SearchStr.md"> 013. 包含子字符串</a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_053_ReverseWordsInString_easy/ReverseWordsInString.md"> 053. 翻转字符串  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_055_CompareStrings_easy/CompareStrings.md"> 055. 比较字符串  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_133_LongestWords_easy/LongestWords.md"> 133. 最长单词  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_157_UniqueCharacters_easy/UniqueCharacters.md"> 157. 判断字符串是否没有重复字符  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_158_TwoStringsAreAnagrams_easy/TwoStringsAreAnagrams.md"> 158. 两个字符串是变位词  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_211_StringPermutation_easy/StringPermutation.md"> 211. 字符串置换  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_212_SpaceReplacement_easy/SpaceReplacement.md"> 212. 空格替换  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_415_ValidPalindrome_easy/ValidPalindrome.md"> 415. 有效的回文 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_422_LengthOfLastWord_easy/LengthOfLastWord.md"> 422. 最后一个单词的长度 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_423_ValidParentheses_easy/ValidParentheses.md"> 423. 有效括号 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_524_LeftPad_easy/LeftPad.md"> 524. 左填充 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_627_LongestPalindrome_easy/LongestPalindrome.md"> 627. 最长回文串  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_638_StringsHomomorphism_easy/StringsHomomorphism.md"> 638. 字符串同态 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md"> 646. 第一位独特字符 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_647_SubstringAnagrams_easy/SubstringAnagrams.md"> 647. 子字符串字谜 </a>
+
+
+### 4. 二叉树 (19)
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_007_BinaryTreeSerialization_medium/BinaryTreeSerialization.md"> 007. 二叉树的序列化 </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_066_BinaryTreePreorderTraversal_Easy/BinaryTreePreOrderTraversal.md"> 066. 二叉树的前序遍历  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_067_BinaryTreeInorderTraversal_Easy/BinaryTreeInOrderTraversal.md"> 067. 二叉树的中序遍历  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_068_BinaryTreePostorderTraversal_Easy/BinaryTreePostOrderTraversal.md"> 068. 二叉树的后序遍历  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_069_BinaryTreeLevelOrder_easy/BinaryTreeLevelOrder.md"> 069. 二叉树的层次遍历  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_085_InsertNodeInBinarySearchTree_easy/InsertNodeInBinarySearchTree.md"> 085. 在二叉查找树中插入节点  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_093_BalancedBinaryTree_easy/BalancedBinaryTree.md"> 093. 平衡二叉树  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_097_MaximumDepthOfBinaryTree_easy/MaximumDepthOfBinaryTree.md"> 097. 二叉树的最大深度  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_155_MinimumDepthOfBinaryTree_easy/MinimumDepthOfBinaryTree.md"> 155. 二叉树的最小深度  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_175_InvertBinaryTree_easy/InvertBinaryTree.md"> 175. 翻转二叉树  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_177_BinarySearchTreeWithMinimalHeight_easy/MinimalHeight.md"> 177. 把排序数组转换为高度最小的二叉搜索树  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_245_SubTree_easy/SubTree.md"> 245. 子树  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_375_CloneBinaryTree_easy/CloneBinaryTree.md"> 375. 克隆二叉树  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_376_BinaryTreePathSum_easy/BinaryTreePathSum.md"> 376. 二叉树的路径和  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_453_FlattenBinaryTreeToLinkedList_easy/FlattenBinaryTreeToLinkedList.md"> 453. 将二叉树拆成链表  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_469_IdenticalBinaryTree_easy/IdenticalBinaryTree.md"> 469. 等价二叉树  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_480_BinaryTreePaths_easy/BinaryTreePaths.md"> 480. 二叉树的所有路径  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_632_BinaryTreeMaxNode_naive/BinaryTreeMaxNode.md"> 632. 二叉树的最大节点  </a>
+#### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_661_ConvertBSTToGreaterTree_easy/ConvertBSTToGreaterTree.md"> 661. 将BST转换为大树 </a>
+
 
 ### 5. 矩阵 (8)
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_028_Search2DMatrix_easy/Search2DMatrix.md"> 028. 搜索二维矩阵  </a>
@@ -100,7 +96,6 @@
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_115_UniquePathsII_easy/UniquePathsII.md"> 115. 唯一路径II </a>
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_185_MatrixZigzagTraversal_easy/MatrixZigzagTraversal.md"> 185. 矩阵的之字型遍历  </a>
 #### <a href="https://github.com/xiyouZmt/LintCode/blob/master/src/Test_433_NumberOfIslands_easy/NumberOfIslands.md"> 433. 岛屿的个数  </a>
-
 
 
 ### 6. 数字运算符相关 (13)
