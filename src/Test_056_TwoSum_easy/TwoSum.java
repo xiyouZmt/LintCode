@@ -13,6 +13,12 @@ public class TwoSum {
         System.out.println(Arrays.toString(twoSum(numbers, 10)));
     }
 
+    /**
+     * 如果不是有序的,用HashMap
+     * @param numbers
+     * @param target
+     * @return
+     */
     public static int[] twoSum(int[] numbers, int target) {
         // write your code here
         if(numbers == null || numbers.length == 0){

@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_211_StringPermutation_easy/StringPermutation.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_211_StringPermutation_easy/StringPermutation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_211_StringPermutation_easy/StringPermutation.md" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_211_StringPermutation_easy/StringPermutation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_646_FirstPositionUniqueCharacter_easy/FirstPositionUniqueCharacter.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.java" afterPath="$PROJECT_DIR$/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_046_MajorityNumber_easy/MajorityNumber.java" afterPath="$PROJECT_DIR$/src/Test_046_MajorityNumber_easy/MajorityNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_046_MajorityNumber_easy/MajorityNumber.md" afterPath="$PROJECT_DIR$/src/Test_046_MajorityNumber_easy/MajorityNumber.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java" afterPath="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.md" afterPath="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +22,8 @@
       <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -147,8 +138,8 @@
         <option value="$PROJECT_DIR$/src/Test_045_MaximumSubArrayDifference_medium/MaximumSubArrayDifference.java" />
         <option value="$PROJECT_DIR$/src/Test_046_MajorityNumber_easy/MajorityNumber.java" />
         <option value="$PROJECT_DIR$/src/Test_046_MajorityNumber_easy/MajorityNumber.md" />
-        <option value="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.md" />
+        <option value="$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java" />
       </list>
     </option>
   </component>
@@ -1261,8 +1252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_056_TwoSum_easy/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
           <folding />
         </state>
       </provider>
