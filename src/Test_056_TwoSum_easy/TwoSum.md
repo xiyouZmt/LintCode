@@ -15,8 +15,9 @@ import java.util.Map;
 public class TwoSum {
     public static void main(String [] args){
         int [] numbers = {2, 7, 11, 15};
-        System.out.println(Arrays.toString(twoSum(numbers, 9)));
+        System.out.println(Arrays.toString(twoSum(numbers, 10)));
     }
+
     public static int[] twoSum(int[] numbers, int target) {
         // write your code here
         if(numbers == null || numbers.length == 0){
@@ -34,6 +35,29 @@ public class TwoSum {
         }
         return null;
     }
+
+    /**
+     * 如果是排序的数组，两个下标求和效率最高
+     */
+//    public static int [] twoSum(int [] numbers, int target){
+//        if(numbers == null || numbers.length == 0){
+//            return null;
+//        }
+//        int low = 0, high = numbers.length - 1;
+//        while (low < high){
+//            if(numbers[low] + numbers[high] > target){
+//                high--;
+//            } else if(numbers[low] + numbers[high] < target){
+//                low++;
+//            } else {
+//                int [] result = new int[2];
+//                result[0] = low;
+//                result[1] = high;
+//                return result;
+//            }
+//        }
+//        return null;
+//    }
 }
 
 ```

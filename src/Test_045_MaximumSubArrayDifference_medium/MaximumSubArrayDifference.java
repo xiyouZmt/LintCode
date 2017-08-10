@@ -5,7 +5,7 @@ package Test_045_MaximumSubArrayDifference_medium;
  */
 public class MaximumSubArrayDifference {
     public static void main(String [] args){
-        int [] num = {-5, -4};
+        int [] num = {1, 2, -3, 1};
         System.out.println(maxSubArray(num));
     }
     public static int maxSubArray(int [] nums){
