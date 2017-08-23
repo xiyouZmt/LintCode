@@ -20,11 +20,11 @@ public class ReverseLinkedList {
         while (node != null){
             nextNode = node.next;
             if (nextNode == null){
-                reverseNode = node;
+                reverseNode = node; //保存反转的头节点
             }
-            node.next = preNode;
-            preNode = node;
-            node = nextNode;
+            node.next = preNode;    //指向前一个节点
+            preNode = node;         //更新preNode
+            node = nextNode;        //更新node
         }
         return reverseNode;
     }

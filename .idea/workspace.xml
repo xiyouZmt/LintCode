@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da268d98-c35b-4b2d-9571-33f7c10ee8c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.java" afterPath="$PROJECT_DIR$/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.md" afterPath="$PROJECT_DIR$/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_006_MergeSortedArray_easy/MergeSortedArray.class" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_006_MergeSortedArray_easy/MergeSortedArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_035_ReverseLinkedList_easy/ReverseLinkedList.md" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_035_ReverseLinkedList_easy/ReverseLinkedList.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LintCode/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicatesFromSortedArray.md" afterPath="$PROJECT_DIR$/out/production/LintCode/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicatesFromSortedArray.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java" afterPath="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArrays.md" afterPath="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArrays.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -53,19 +57,34 @@
       <file leaf-file-name="RemoveDuplicatesFromSortedArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicatesFromSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            <state relative-caret-position="342">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseLinkedList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.java">
+      <file leaf-file-name="MergeSortedArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="380">
+              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSortedArrays.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArrays.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="380">
+                <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -116,8 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_114_UniquePaths_easy/UniquePaths.java" />
-        <option value="$PROJECT_DIR$/../../jdk/src.zip!/java/lang/Character.java" />
         <option value="$PROJECT_DIR$/../../jdk/src.zip!/java/lang/CharacterData.java" />
         <option value="$PROJECT_DIR$/../../jdk/src.zip!/java/lang/CharacterDataLatin1.java" />
         <option value="$PROJECT_DIR$/src/Test_415_ValidPalindrome_easy/ValidPalindrome.java" />
@@ -167,6 +184,8 @@
         <option value="$PROJECT_DIR$/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicatesFromSortedArray.md" />
         <option value="$PROJECT_DIR$/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.md" />
+        <option value="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArrays.md" />
       </list>
     </option>
   </component>
@@ -283,13 +302,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LintCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_006_MergeSortedArray_easy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Remote-Manage-Server" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
@@ -303,27 +340,7 @@
       <recent name="E:\Java\workspace\LintCode\src\Test_066_BinaryTreePreOrderTraversal_Easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesFromSortedArray">
-    <configuration default="false" name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Test_056_TwoSum_easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Test_056_TwoSum_easy.TwoSum" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MergeSortedArray">
     <configuration default="false" name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -392,6 +409,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Test_539_MoveZeroes_easy.MoveZeroes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test_006_MergeSortedArray_easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test_006_MergeSortedArray_easy.MergeSortedArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -625,19 +662,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TwoSum" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SubArraySum" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PlusOne" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MoveZeroes" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SubArraySum" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PlusOne" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MoveZeroes" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MergeSortedArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MoveZeroes" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PlusOne" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SubArraySum" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TwoSum" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MergeSortedArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MoveZeroes" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PlusOne" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SubArraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -667,7 +704,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -689,7 +726,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38177875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38177875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17697228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -829,8 +866,50 @@
           <properties />
           <option name="timeStamp" value="440" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="442" />
+      <option name="time" value="449" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -839,13 +918,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test_204_Singleton_easy/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_142_CheckPowerOf2_easy/CheckPowerOf2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -857,13 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1223,14 +1288,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicatesFromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1246,9 +1303,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_035_ReverseLinkedList_easy/ReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="228">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_100_RemoveDuplicatesFromSortedArray_easy/RemoveDuplicatesFromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_006_MergeSortedArray_easy/MergeSortedArrays.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>

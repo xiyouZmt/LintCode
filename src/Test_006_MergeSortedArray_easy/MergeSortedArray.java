@@ -9,12 +9,11 @@ public class MergeSortedArray {
     public static void main(String [] args){
         int [] A = {1,2,3,4,5,6};
         int [] B = {4,5,6,7,8,9};
-        System.out.println(Arrays.toString(mergeSortedArray(A, B)));
+        System.out.println(Arrays.toString(mergeSortedArray(B, A)));
     }
 
     public static int [] mergeSortedArray(int [] A, int [] B){
         if (A != null && B != null && A.length != 0 && B.length != 0) {
-            A = B;
             int length = A.length + B.length;
             int i = 0, n = 0, pos = 0;
             int [] newArray = new int[length];
@@ -35,7 +34,7 @@ public class MergeSortedArray {
                 }
             } else if(n == B.length) {
                 for (int j = i; j < A.length; j++) {
-                    newArray[pos] = A[i];
+                    newArray[pos] = A[j];
                     pos ++;
                 }
             }
