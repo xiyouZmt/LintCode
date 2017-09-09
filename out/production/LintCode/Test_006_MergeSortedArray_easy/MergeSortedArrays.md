@@ -39,7 +39,7 @@ public class MergeSortedArray {
                 }
             } else if(n == B.length) {
                 for (int j = i; j < A.length; j++) {
-                    newArray[pos] = A[i];
+                    newArray[pos] = A[j];
                     pos ++;
                 }
             }

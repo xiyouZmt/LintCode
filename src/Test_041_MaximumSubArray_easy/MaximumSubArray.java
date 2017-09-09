@@ -5,7 +5,7 @@ package Test_041_MaximumSubArray_easy;
  */
 public class MaximumSubArray {
     public static void main(String [] args){
-        int [] array = {-2, 2,-3,4,-1,2,1,-15,100};
+        int [] array = {-2,2,-3,4,-1,2,1,-15,100};
         System.out.println(maxSubArray(array));
     }
     public static int maxSubArray(int[] A) {
@@ -14,8 +14,8 @@ public class MaximumSubArray {
             return 0;
         }
         int max = Integer.MIN_VALUE, sum = 0;
-        for (int i = 0; i < A.length; i++) {
-            sum += A[i];
+        for (int a : A) {
+            sum += a;
             max = Math.max(max, sum);
             sum = Math.max(sum, 0);
         }
